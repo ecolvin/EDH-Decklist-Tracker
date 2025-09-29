@@ -1,25 +1,25 @@
 Recommended Updates
 -------------------
-**Gaea's Cradle - 78.57
-Gwenna, Eyes of Gaea - 60.71
-Zopandrel, Hunger Dominus - 57.14
-Delighted Halfling - 46.43
-Last March of the Ents - 53.57
+**Gaea's Cradle - 75.00
+Zopandrel, Hunger Dominus - 60.71
+Gwenna, Eyes of Gaea - 57.14
+Delighted Halfling - 50.00
+Last March of the Ents - 57.14
 Finale of Devastation - 53.57
-Green Sun's Zenith - 50.00
 Three Visits - 50.00
 Nature's Lore - 50.00
-Cultivate - 50.00
-Life's Legacy - 42.86
+Green Sun's Zenith - 46.43
+Cultivate - 46.43
 Elemental Bond - 53.57
-Wild Growth - 50.00
-Concordant Crossroads - 50.00
+Wild Growth - 46.43
+Concordant Crossroads - 46.43
 
 
 Recommended Cuts
 -------------------
 Nessian Boar - 39.29%
-Old-Growth Troll - 39.29%
+Reclamation Sage - 39.29%
+Old-Growth Troll - 35.71%
 Overwhelming Stampede - 35.71%
 Questing Beast - 32.14%
 Ancient Tomb - 28.57%

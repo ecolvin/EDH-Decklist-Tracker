@@ -1,52 +1,50 @@
 Recommended Updates
 -------------------
-Etherium Sculptor - 50.00
-**Smothering Tithe - 46.67
-Reckless Fireweaver - 40.00
-Master Trinketeer - 40.00
-Path to Exile - 40.00
-Sol Ring - 93.33
-Chromatic Lantern - 40.00
-Underground Sea - 80.00
-Volcanic Island - 80.00
-Tundra - 73.33
-Plateau - 63.33
-Badlands - 60.00
-Scrubland - 56.67
+Etherium Sculptor - 51.72
+**Smothering Tithe - 44.83
+Reckless Fireweaver - 41.38
+Master Trinketeer - 41.38
+Path to Exile - 41.38
+Sol Ring - 93.10
+Chromatic Lantern - 41.38
+Underground Sea - 82.76
+Volcanic Island - 82.76
+Tundra - 75.86
+Plateau - 65.52
+Badlands - 62.07
+Scrubland - 58.62
 
 
 Recommended Cuts
 -------------------
-Mox Opal - 40.00%
-Sword of the Meek - 40.00%
-Anointed Procession - 36.67%
-Ornithopter - 36.67%
-Mechanized Production - 36.67%
-Sweep the Skies - 33.33%
-Etherium Spinner - 33.33%
-Fellwar Stone - 33.33%
-Dispatch - 30.00%
-Launch Mishap - 30.00%
-Liberator, Urza's Battlethopter - 30.00%
-Pia Nalaar, Consul of Revival - 30.00%
-Mana Drain - 30.00%
-Talisman of Creativity - 30.00%
-Leonardo da Vinci - 28.00%
-Warleader's Call - 26.92%
-Talisman of Dominance - 23.33%
-Harried Dronesmith - 23.08%
-Talisman of Conviction - 20.00%
-Talisman of Progress - 20.00%
-Talisman of Hierarchy - 13.33%
-Kindred Discovery - 10.00%
-Intrude on the Mind - 7.69%
-Shared Animosity - 6.67%
-Talisman of Indulgence - 6.67%
+Anointed Procession - 37.93%
+Sword of the Meek - 37.93%
+Sweep the Skies - 34.48%
+Etherium Spinner - 34.48%
+Ornithopter - 34.48%
+Mechanized Production - 34.48%
+Fellwar Stone - 34.48%
+Dispatch - 31.03%
+Launch Mishap - 31.03%
+Liberator, Urza's Battlethopter - 31.03%
+Pia Nalaar, Consul of Revival - 31.03%
+Mana Drain - 31.03%
+Leonardo da Vinci - 29.17%
+Warleader's Call - 28.00%
+Talisman of Creativity - 27.59%
+Harried Dronesmith - 24.00%
+Talisman of Dominance - 20.69%
+Talisman of Conviction - 20.69%
+Talisman of Progress - 20.69%
+Talisman of Hierarchy - 13.79%
+Kindred Discovery - 10.34%
+Intrude on the Mind - 8.00%
+Shared Animosity - 6.90%
+Talisman of Indulgence - 6.90%
 Storm the Vault // Vault of Catlacan - Card not found
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Perplexing Test - Card not found
-Drossforge Bridge - Card not found
 Flawless Maneuver - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Sink into Stupor // Soporific Springs - Card not found

@@ -1,59 +1,58 @@
 Recommended Updates
 -------------------
-**Teferi's Protection - 67.53
-**Cyclonic Rift - 64.21
-**Smothering Tithe - 60.15
-**Rhystic Study - 59.04
-**Demonic Tutor - 56.83
-**Vampiric Tutor - 54.24
-**Narset, Parter of Veils - 50.18
-**Fierce Guardianship - 44.28
-Bloom Tender - 45.76
-Delighted Halfling - 41.33
-Swords to Plowshares - 51.29
-Mana Drain - 50.55
-Farewell - 47.23
-Brokers Ascendancy - 40.22
-Karn's Bastion - 46.86
-Sol Ring - 86.72
+**Teferi's Protection - 67.78
+**Cyclonic Rift - 64.44
+**Smothering Tithe - 60.00
+**Rhystic Study - 58.89
+**Demonic Tutor - 57.04
+**Vampiric Tutor - 54.07
+**Narset, Parter of Veils - 50.37
+**Fierce Guardianship - 44.44
+Bloom Tender - 45.93
+Delighted Halfling - 41.48
+Swords to Plowshares - 51.48
+Mana Drain - 50.74
+Farewell - 47.41
+Brokers Ascendancy - 40.37
+Karn's Bastion - 47.04
+Sol Ring - 86.67
 Tropical Island - 98.52
 Savannah - 98.15
-Tundra - 97.79
-Underground Sea - 97.79
-Scrubland - 97.79
-Bayou - 97.42
-Plateau - 97.42
-Taiga - 97.05
-Volcanic Island - 97.05
-Badlands - 94.10
-Island - 42.07
-Plains - 40.59
+Tundra - 97.78
+Underground Sea - 97.78
+Scrubland - 97.78
+Bayou - 97.41
+Plateau - 97.41
+Taiga - 97.04
+Volcanic Island - 97.04
+Badlands - 94.07
+Island - 42.22
+Plains - 40.74
 
 
 Recommended Cuts
 -------------------
 Ripples of Potential - 39.84%
-Narset Transcendent - 38.38%
-Kaya the Inexorable - 38.38%
-Arena Rector - 38.01%
-Chandra, Legacy of Fire - 35.79%
-Primevals' Glorious Rebirth - 34.69%
-Evolution Sage - 34.69%
-Lae'zel, Vlaakith's Champion - 33.95%
-Toxic Deluge - 32.84%
+Arena Rector - 38.15%
+Narset Transcendent - 38.15%
+Kaya the Inexorable - 38.15%
+Chandra, Legacy of Fire - 35.93%
+Primevals' Glorious Rebirth - 34.81%
+Evolution Sage - 34.44%
+Lae'zel, Vlaakith's Champion - 33.70%
+Toxic Deluge - 32.96%
 Innkeeper's Talent - 30.28%
 Mutational Advantage - 24.64%
-Eerie Ultimatum - 22.88%
-Flux Channeler - 22.51%
-Blasphemous Act - 22.14%
-Mox Amber - 21.03%
+Eerie Ultimatum - 22.59%
+Flux Channeler - 22.59%
+Blasphemous Act - 21.85%
+Mox Amber - 20.74%
 Aetheric Amplifier - 19.35%
 Blasphemous Edict - 15.15%
-Vanquish the Horde - 13.28%
-Deploy the Gatewatch - 11.44%
-Ruinous Ultimatum - 10.70%
-Staff of Compleation - 6.27%
-Austere Command - 5.17%
+Vanquish the Horde - 13.33%
+Deploy the Gatewatch - 11.48%
+Ruinous Ultimatum - 10.74%
+Staff of Compleation - 5.93%
 Fires of Invention - Card not found
 Genesis Ultimatum - Card not found
 Forbidden Orchard - Card not found
@@ -61,6 +60,7 @@ Kamahl's Druidic Vow - Card not found
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
 Ziatora's Proving Ground - Card not found
+Austere Command - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Fell the Profane // Fell Mire - Card not found
 Pinnacle Monk // Mystic Peak - Card not found

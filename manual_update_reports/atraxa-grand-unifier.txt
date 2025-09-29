@@ -1,33 +1,33 @@
 Recommended Updates
 -------------------
-Esper Sentinel - 55.92
+Esper Sentinel - 55.26
 Mystic Remora - 54.61
 Force of Will - 53.95
-An Offer You Can't Refuse - 46.71
-Swan Song - 46.71
-**Rhystic Study - 84.87
+Enlightened Tutor - 46.71
+**Rhystic Study - 85.53
 **Cyclonic Rift - 80.26
-**Ancient Tomb - 77.63
+**Ancient Tomb - 78.29
+**Demonic Tutor - 78.29
 **Smothering Tithe - 77.63
-**Demonic Tutor - 77.63
 **Vampiric Tutor - 67.76
 **Orcish Bowmasters - 62.50
-**The One Ring - 56.58
+**The One Ring - 55.92
 **Mana Vault - 53.95
 **Mox Diamond - 49.34
 Thassa's Oracle - 45.39
 Deathrite Shaman - 43.42
 Voice of Victory - 42.55
-Enlightened Tutor - 46.71
+Swan Song - 46.71
+An Offer You Can't Refuse - 46.05
 Force of Negation - 41.45
-Dark Ritual - 40.79
 Silence - 40.79
+Dark Ritual - 40.79
 Worldly Tutor - 40.79
 Teferi, Time Raveler - 43.42
 Otawara, Soaring City - 55.26
 Reliquary Tower - 46.05
 Sol Ring - 98.03
-Fellwar Stone - 60.53
+Fellwar Stone - 61.18
 Chrome Mox - 48.03
 Lotus Petal - 44.74
 Tundra - 100.00
@@ -36,36 +36,35 @@ Savannah - 99.34
 Bayou - 99.34
 Tropical Island - 98.03
 Scrubland - 98.03
-Scalding Tarn - 49.34
-Bloodstained Mire - 41.45
-Wooded Foothills - 40.13
+Scalding Tarn - 48.68
+Bloodstained Mire - 40.79
 
 
 Recommended Cuts
 -------------------
-Aether Channeler - 38.16%
-Deadeye Navigator - 36.18%
-Aminatou, the Fateshifter - 36.18%
+Aether Channeler - 38.82%
+Deadeye Navigator - 36.84%
+Aminatou, the Fateshifter - 36.84%
+Agent of Treachery - 36.18%
 Loran of the Third Path - 36.18%
-Agent of Treachery - 35.53%
+Felidar Guardian - 34.21%
 Mulldrifter - 34.21%
-Felidar Guardian - 33.55%
-Ravenous Chupacabra - 32.89%
-Brago, King Eternal - 32.24%
+Ravenous Chupacabra - 33.55%
+Brago, King Eternal - 32.89%
+Guardian Project - 32.24%
 The Eternal Wanderer - 32.24%
-Guardian Project - 31.58%
-Yorion, Sky Nomad - 31.58%
-Charming Prince - 30.92%
-Conjurer's Closet - 30.26%
-Momentary Blink - 30.26%
-Aura Shards - 29.61%
-Lae'zel's Acrobatics - 26.97%
+Yorion, Sky Nomad - 32.24%
+Charming Prince - 31.58%
+Conjurer's Closet - 30.92%
+Momentary Blink - 30.92%
+Aura Shards - 30.26%
+Lae'zel's Acrobatics - 27.63%
 Path to Exile - 25.00%
 Preston, the Vanisher - 21.71%
-Another Round - 19.67%
-Dour Port-Mage - 13.40%
+Another Round - 20.49%
+Dour Port-Mage - 14.43%
+Clifftop Lookout - 13.40%
 Restoration Angel - 13.16%
-Clifftop Lookout - 12.37%
 Cloudblazer - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
 Ertai Resurrected - Card not found

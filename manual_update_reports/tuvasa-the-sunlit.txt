@@ -1,19 +1,18 @@
 Recommended Updates
 -------------------
-**Serra's Sanctum - 85.65
+**Serra's Sanctum - 85.33
 **Rhystic Study - 75.55
-**Enlightened Tutor - 74.92
+**Enlightened Tutor - 74.76
 **Smothering Tithe - 63.41
-**Cyclonic Rift - 58.52
-**Fierce Guardianship - 52.68
-**Teferi's Protection - 48.11
-Heroic Intervention - 40.22
+**Cyclonic Rift - 58.36
+**Fierce Guardianship - 52.37
+**Teferi's Protection - 47.79
+Heroic Intervention - 40.06
 Idyllic Tutor - 54.89
-Exploration - 52.37
-Boseiju, Who Endures - 54.10
-Yavimaya, Cradle of Growth - 47.79
-Otawara, Soaring City - 40.06
-Sol Ring - 59.62
+Exploration - 52.21
+Boseiju, Who Endures - 53.94
+Yavimaya, Cradle of Growth - 47.48
+Sol Ring - 59.46
 Tropical Island - 95.27
 Savannah - 95.11
 Tundra - 94.64
@@ -21,31 +20,31 @@ Tundra - 94.64
 
 Recommended Cuts
 -------------------
-Enchanted Evening - 39.59%
+Enchanted Evening - 39.43%
 Ancestral Mask - 38.49%
-Grasp of Fate - 38.17%
+Grasp of Fate - 38.01%
 Ethereal Armor - 36.75%
-Mirari's Wake - 36.59%
-Kenrith's Transformation - 36.44%
+Mirari's Wake - 36.75%
+Kenrith's Transformation - 36.59%
 Greater Auramancy - 36.28%
-Calix, Guided by Fate - 35.96%
 Entity Tracker - 35.81%
-Hallowed Haunting - 35.49%
-Song of the Dryads - 35.33%
+Calix, Guided by Fate - 35.80%
+Song of the Dryads - 35.49%
+Hallowed Haunting - 35.33%
 All That Glitters - 34.54%
-Imprisoned in the Moon - 34.23%
-Counterspell - 33.44%
-Amphibian Downpour - 32.93%
+Imprisoned in the Moon - 34.38%
+Counterspell - 33.28%
+Amphibian Downpour - 32.80%
 Inquisitive Glimmer - 32.79%
 Bear Umbra - 31.07%
-Archon of Sun's Grace - 30.91%
-Path to Exile - 29.97%
-Karmic Justice - 28.39%
-Mirrormade - 28.23%
-Supreme Verdict - 26.34%
-Starfield of Nyx - 21.45%
-Starfield Mystic - 20.66%
-Eaten by Piranhas - 15.46%
+Archon of Sun's Grace - 30.76%
+Path to Exile - 30.13%
+Mirrormade - 28.39%
+Karmic Justice - 28.23%
+Supreme Verdict - 26.18%
+Starfield of Nyx - 21.61%
+Starfield Mystic - 20.50%
+Eaten by Piranhas - 15.41%
 Calix, Destiny's Hand - 14.98%
 Austere Command - 8.99%
 Mystic Gate - Card not found

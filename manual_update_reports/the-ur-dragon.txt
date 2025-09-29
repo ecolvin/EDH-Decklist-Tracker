@@ -1,53 +1,53 @@
 Recommended Updates
 -------------------
-**Cyclonic Rift - 74.29
-**Teferi's Protection - 68.27
-**Smothering Tithe - 67.99
-**Rhystic Study - 67.85
-**Demonic Tutor - 63.81
-**Vampiric Tutor - 45.33
+**Cyclonic Rift - 74.38
+**Teferi's Protection - 68.49
+**Rhystic Study - 67.99
+**Smothering Tithe - 67.92
+**Demonic Tutor - 63.88
+**Vampiric Tutor - 45.42
 Ureni of the Unwritten - 63.64
-Bloom Tender - 50.42
-Ancient Brass Dragon - 46.53
-Lightning Greaves - 42.63
+Bloom Tender - 50.39
+Ancient Brass Dragon - 46.56
+Lightning Greaves - 42.58
 Dracogenesis - 61.36
 Call the Spirit Dragons - 44.19
-Sol Ring - 95.68
-Chromatic Lantern - 49.65
-Mana Crypt - 43.06
-Fellwar Stone - 41.86
+Sol Ring - 95.74
+Chromatic Lantern - 49.82
+Mana Crypt - 43.08
+Fellwar Stone - 41.87
 Mox Jasper - 40.43
 Volcanic Island - 99.29
 Badlands - 99.08
 Taiga - 99.08
-Bayou - 98.87
+Bayou - 98.86
 Tropical Island - 98.65
 Plateau - 98.58
 Underground Sea - 98.51
 Savannah - 98.44
 Tundra - 97.59
-Scrubland - 96.25
+Scrubland - 95.95
 Maelstrom of the Spirit Dragon - 59.09
-Mountain - 49.72
-Breeding Pool - 46.46
-Forest - 46.18
-Temple Garden - 43.56
+Mountain - 49.54
+Breeding Pool - 46.63
+Forest - 45.99
+Temple Garden - 43.79
 
 
 Recommended Cuts
 -------------------
-Bladewing the Risen - 38.95%
-Assassin's Trophy - 36.40%
-Ramos, Dragon Engine - 34.84%
-Savage Ventmaw - 34.35%
-Hellkite Tyrant - 30.74%
-Up the Beanstalk - 28.19%
-Cavern-Hoard Dragon - 24.15%
-Path to Exile - 23.65%
+Bladewing the Risen - 39.11%
+Assassin's Trophy - 36.34%
+Ramos, Dragon Engine - 34.99%
+Savage Ventmaw - 34.28%
+Hellkite Tyrant - 30.59%
+Up the Beanstalk - 28.18%
+Cavern-Hoard Dragon - 23.99%
+Path to Exile - 23.78%
 Smuggler's Surprise - 19.98%
-Dragonhawk, Fate's Tempest - 19.37%
-Kindred Discovery - 18.34%
-Anguished Unmaking - 17.14%
+Dragonhawk, Fate's Tempest - 19.43%
+Kindred Discovery - 18.45%
+Anguished Unmaking - 17.32%
 Raugrin Triome - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
