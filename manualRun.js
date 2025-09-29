@@ -1,9 +1,12 @@
 import axios from "axios";
 import env from "dotenv";
 import fs from "fs/promises";
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-extra';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 
 import * as settings from "./settings.js";
+
+puppeteer.use(StealthPlugin());
 
 const edhrecURL = "https://json.edhrec.com/pages/commanders/";
 const redirectURL = "https://json.edhrec.com/pages";
@@ -195,6 +198,8 @@ async function getViaBrowser(deckId)
         const jsonText = await page.evaluate(() => {
             return document.body.textContent;
         });
+
+	console.log(jsonText);
         
         // Parse the JSON
         const deckData = JSON.parse(jsonText);

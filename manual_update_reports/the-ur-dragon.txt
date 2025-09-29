@@ -1,54 +1,53 @@
 Recommended Updates
 -------------------
-**Cyclonic Rift - 74.33
-**Teferi's Protection - 68.32
-**Smothering Tithe - 68.03
-**Rhystic Study - 67.89
-**Demonic Tutor - 63.79
+**Cyclonic Rift - 74.29
+**Teferi's Protection - 68.27
+**Smothering Tithe - 67.99
+**Rhystic Study - 67.85
+**Demonic Tutor - 63.81
 **Vampiric Tutor - 45.33
 Ureni of the Unwritten - 63.64
-Bloom Tender - 50.35
+Bloom Tender - 50.42
 Ancient Brass Dragon - 46.53
-Lightning Greaves - 42.72
+Lightning Greaves - 42.63
 Dracogenesis - 61.36
 Call the Spirit Dragons - 44.19
-Sol Ring - 95.76
-Chromatic Lantern - 49.58
-Mana Crypt - 43.21
-Fellwar Stone - 41.80
+Sol Ring - 95.68
+Chromatic Lantern - 49.65
+Mana Crypt - 43.06
+Fellwar Stone - 41.86
 Mox Jasper - 40.43
 Volcanic Island - 99.29
 Badlands - 99.08
 Taiga - 99.08
 Bayou - 98.87
-Tropical Island - 98.66
-Plateau - 98.59
+Tropical Island - 98.65
+Plateau - 98.58
 Underground Sea - 98.51
 Savannah - 98.44
-Tundra - 97.60
-Scrubland - 96.18
+Tundra - 97.59
+Scrubland - 96.25
 Maelstrom of the Spirit Dragon - 59.09
-Mountain - 49.65
+Mountain - 49.72
 Breeding Pool - 46.46
 Forest - 46.18
-Temple Garden - 43.64
+Temple Garden - 43.56
 
 
 Recommended Cuts
 -------------------
-Scion of Draco - 39.96%
-Bladewing the Risen - 39.11%
-Assassin's Trophy - 36.35%
-Ramos, Dragon Engine - 34.87%
-Savage Ventmaw - 34.37%
-Hellkite Tyrant - 30.69%
-Up the Beanstalk - 28.15%
-Cavern-Hoard Dragon - 24.05%
-Path to Exile - 23.69%
+Bladewing the Risen - 38.95%
+Assassin's Trophy - 36.40%
+Ramos, Dragon Engine - 34.84%
+Savage Ventmaw - 34.35%
+Hellkite Tyrant - 30.74%
+Up the Beanstalk - 28.19%
+Cavern-Hoard Dragon - 24.15%
+Path to Exile - 23.65%
 Smuggler's Surprise - 19.98%
 Dragonhawk, Fate's Tempest - 19.37%
-Kindred Discovery - 18.39%
-Anguished Unmaking - 17.19%
+Kindred Discovery - 18.34%
+Anguished Unmaking - 17.14%
 Raugrin Triome - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found

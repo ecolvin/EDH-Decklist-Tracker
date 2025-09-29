@@ -1,32 +1,32 @@
 Recommended Updates
 -------------------
-**The One Ring - 74.38
-**Smothering Tithe - 59.85
-**Teferi's Protection - 58.37
-**Demonic Tutor - 50.74
-**Vampiric Tutor - 42.73
-Sorin of House Markov - 42.15
-Chatterfang, Squirrel General - 40.27
-Yavimaya, Cradle of Growth - 59.36
-Urborg, Tomb of Yawgmoth - 54.56
-Sol Ring - 93.23
-Savannah - 65.76
-Bayou - 65.15
-Scrubland - 64.41
+**The One Ring - 74.35
+**Smothering Tithe - 59.93
+**Teferi's Protection - 58.69
+**Demonic Tutor - 50.92
+**Vampiric Tutor - 42.79
+Sorin of House Markov - 42.07
+Chatterfang, Squirrel General - 40.20
+Yavimaya, Cradle of Growth - 59.43
+Urborg, Tomb of Yawgmoth - 54.75
+Sol Ring - 93.09
+Savannah - 65.72
+Bayou - 65.10
+Scrubland - 64.36
 
 
 Recommended Cuts
 -------------------
-Of Herbs and Stewed Rabbit - 38.92%
+Of Herbs and Stewed Rabbit - 38.84%
 Kambal, Profiteering Mayor - 37.65%
-Ygra, Eater of All - 35.70%
-Deadly Rollick - 34.85%
-Idol of Oblivion - 29.43%
-Dusk // Dawn - 27.83%
-Flawless Maneuver - 21.92%
-Mortality Spear - 15.52%
+Ygra, Eater of All - 35.76%
+Deadly Rollick - 34.77%
+Idol of Oblivion - 29.22%
+Dusk // Dawn - 27.74%
+Flawless Maneuver - 21.82%
+Mortality Spear - 15.41%
 Midnight Snack - 12.70%
-Deadly Dispute - 11.82%
+Deadly Dispute - 11.71%
 Nurturing Peatland - Card not found
 Silent Clearing - Card not found
 Bala Ged Recovery // Bala Ged Sanctuary - Card not found
