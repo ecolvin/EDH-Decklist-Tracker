@@ -1,0 +1,51 @@
+Recommended Updates
+-------------------
+Wheel of Fortune - 72.15
+**Ancient Tomb - 74.68
+**The One Ring - 62.03
+**Mana Vault - 50.63
+**Chrome Mox - 40.51
+**Gamble - 40.51
+Imperial Recruiter - 59.49
+Ojer Axonil, Deepest Might - 58.23
+Ragavan, Nimble Pilferer - 53.16
+Birgi, God of Storytelling - 53.16
+Goblin Matron - 50.63
+Magus of the Moon - 46.84
+Dockside Extortionist - 40.51
+Twinflame - 40.51
+Blood Moon - 59.49
+Urza's Saga - 60.76
+Sol Ring - 98.73
+Cavern of Souls - 50.63
+
+
+Recommended Cuts
+-------------------
+Chandra's Incinerator - 39.24%
+Empty the Warrens - 35.44%
+City on Fire - 34.18%
+Goblin Rabblemaster - 34.18%
+Goblin Bombardment - 32.91%
+Spawn-Gang Commander - 32.69%
+Hanweir Garrison - 30.38%
+Fellwar Stone - 26.58%
+Faithless Looting - 24.05%
+Redcap Gutter-Dweller - 24.05%
+Searslicer Goblin - 21.21%
+Fire Diamond - 15.19%
+Spiked Corridor // Torture Pit - 12.50%
+Goblin Negotiation - 12.50%
+Everflowing Chalice - 7.59%
+Demand Answers - 7.25%
+Valakut Awakening // Valakut Stoneforge - Card not found
+Spikefield Hazard // Spikefield Cave - Card not found
+Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
+Birgi, God of Storytelling // Harnfel, Horn of Bounty - Card not found
+The Irencrag - Card not found
+Ojer Axonil, Deepest Might // Temple of Power - Card not found
+Arch of Orazca - Card not found
+Ramunap Ruins - Card not found
+Barbarian Ring - Card not found
+Sundering Eruption // Volcanic Fissure - Card not found
+Pinnacle Monk // Mystic Peak - Card not found
