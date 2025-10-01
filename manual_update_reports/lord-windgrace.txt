@@ -1,62 +1,62 @@
 Recommended Updates
 -------------------
+Strip Mine - 73.79
+**Crop Rotation - 92.11
+**Demonic Tutor - 77.61
+**Vampiric Tutor - 69.97
+**Ancient Tomb - 60.81
+**Mox Diamond - 60.31
+**Gaea's Cradle - 51.91
+Elvish Reclaimer - 55.98
 Icetill Explorer - 50.00
-Strip Mine - 73.86
-**Crop Rotation - 92.13
-**Demonic Tutor - 77.66
-**Vampiric Tutor - 69.80
-**Ancient Tomb - 60.66
-**Mox Diamond - 60.15
-**Gaea's Cradle - 52.03
-Elvish Reclaimer - 55.84
-Ignoble Hierarch - 48.98
-Eternal Witness - 47.97
-Birds of Paradise - 44.67
-Deathrite Shaman - 44.42
-Abrupt Decay - 48.98
-Finale of Devastation - 44.92
-Green Sun's Zenith - 44.16
-Torment of Hailfire - 40.36
-Valakut, the Molten Pinnacle - 54.31
-Wasteland - 51.02
-Cabal Coffers - 42.89
-Sol Ring - 85.79
-Taiga - 92.64
-Bayou - 92.39
-Badlands - 91.62
-Misty Rainforest - 69.54
-Windswept Heath - 64.97
-Arid Mesa - 58.88
-Marsh Flats - 58.12
-Scalding Tarn - 57.36
-Polluted Delta - 55.33
+Ignoble Hierarch - 49.11
+Eternal Witness - 47.84
+Birds of Paradise - 44.78
+Deathrite Shaman - 44.53
+Abrupt Decay - 49.11
+Finale of Devastation - 45.04
+Green Sun's Zenith - 44.27
+Torment of Hailfire - 40.46
+Valakut, the Molten Pinnacle - 54.45
+Wasteland - 50.89
+Cabal Coffers - 43.00
+Sol Ring - 85.75
+Taiga - 92.62
+Bayou - 92.37
+Badlands - 91.60
+Misty Rainforest - 69.72
+Windswept Heath - 64.89
+Arid Mesa - 59.03
+Marsh Flats - 58.27
+Scalding Tarn - 57.51
+Polluted Delta - 55.47
 Commercial District - 43.03
 Underground Mortuary - 40.56
 
 
 Recommended Cuts
 -------------------
-Orcish Lumberjack - 36.29%
-Farseek - 34.52%
-Tireless Tracker - 32.74%
+Orcish Lumberjack - 36.13%
+Farseek - 34.35%
+Tireless Tracker - 32.82%
 Walk-In Closet // Forgotten Cellar - 31.25%
-Ob Nixilis, the Fallen - 30.46%
-Soul of Windgrace - 30.20%
-Beast Within - 28.17%
-Sylvan Safekeeper - 27.16%
-Blasphemous Act - 26.14%
-World Shaper - 24.87%
-Deadly Rollick - 23.60%
-Rampaging Baloths - 23.35%
+Ob Nixilis, the Fallen - 30.53%
+Soul of Windgrace - 30.28%
+Beast Within - 28.24%
+Sylvan Safekeeper - 27.23%
+Blasphemous Act - 25.95%
+World Shaper - 24.68%
+Deadly Rollick - 23.66%
+Rampaging Baloths - 23.41%
 Worldsoul's Rage - 23.17%
-Mina and Denn, Wildborn - 23.10%
-Harrow - 23.10%
-Wayward Swordtooth - 20.56%
+Mina and Denn, Wildborn - 23.16%
+Harrow - 23.16%
 Lumra, Bellow of the Woods - 20.56%
-Courser of Kruphix - 14.97%
+Wayward Swordtooth - 20.36%
+Courser of Kruphix - 15.01%
 Loot, Exuberant Explorer - 14.95%
-Windgrace's Judgment - 14.21%
-Entish Restoration - 8.38%
+Windgrace's Judgment - 14.25%
+Entish Restoration - 8.40%
 Bala Ged Recovery // Bala Ged Sanctuary - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found

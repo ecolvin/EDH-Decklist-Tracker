@@ -1,53 +1,53 @@
 Recommended Updates
 -------------------
-**Cyclonic Rift - 74.38
-**Teferi's Protection - 68.49
-**Rhystic Study - 67.99
-**Smothering Tithe - 67.92
-**Demonic Tutor - 63.88
-**Vampiric Tutor - 45.42
+**Cyclonic Rift - 74.41
+**Teferi's Protection - 68.37
+**Rhystic Study - 68.02
+**Smothering Tithe - 67.95
+**Demonic Tutor - 63.97
+**Vampiric Tutor - 45.49
 Ureni of the Unwritten - 63.64
-Bloom Tender - 50.39
-Ancient Brass Dragon - 46.56
-Lightning Greaves - 42.58
+Bloom Tender - 50.32
+Ancient Brass Dragon - 46.55
+Lightning Greaves - 42.64
 Dracogenesis - 61.36
 Call the Spirit Dragons - 44.19
 Sol Ring - 95.74
-Chromatic Lantern - 49.82
-Mana Crypt - 43.08
-Fellwar Stone - 41.87
+Chromatic Lantern - 49.68
+Mana Crypt - 43.07
+Fellwar Stone - 41.79
 Mox Jasper - 40.43
 Volcanic Island - 99.29
-Badlands - 99.08
 Taiga - 99.08
+Badlands - 99.00
 Bayou - 98.86
 Tropical Island - 98.65
-Plateau - 98.58
 Underground Sea - 98.51
+Plateau - 98.51
 Savannah - 98.44
-Tundra - 97.59
-Scrubland - 95.95
+Tundra - 97.58
+Scrubland - 95.88
 Maelstrom of the Spirit Dragon - 59.09
-Mountain - 49.54
-Breeding Pool - 46.63
-Forest - 45.99
-Temple Garden - 43.79
+Mountain - 49.40
+Breeding Pool - 46.55
+Forest - 45.91
+Temple Garden - 43.71
 
 
 Recommended Cuts
 -------------------
-Bladewing the Risen - 39.11%
-Assassin's Trophy - 36.34%
-Ramos, Dragon Engine - 34.99%
-Savage Ventmaw - 34.28%
-Hellkite Tyrant - 30.59%
-Up the Beanstalk - 28.18%
-Cavern-Hoard Dragon - 23.99%
-Path to Exile - 23.78%
-Smuggler's Surprise - 19.98%
-Dragonhawk, Fate's Tempest - 19.43%
-Kindred Discovery - 18.45%
-Anguished Unmaking - 17.32%
+Bladewing the Risen - 39.09%
+Assassin's Trophy - 36.32%
+Ramos, Dragon Engine - 34.97%
+Savage Ventmaw - 34.33%
+Hellkite Tyrant - 30.77%
+Up the Beanstalk - 28.14%
+Cavern-Hoard Dragon - 24.09%
+Path to Exile - 23.74%
+Smuggler's Surprise - 20.06%
+Dragonhawk, Fate's Tempest - 19.40%
+Kindred Discovery - 18.41%
+Anguished Unmaking - 17.27%
 Raugrin Triome - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found

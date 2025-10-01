@@ -1,63 +1,63 @@
 Recommended Updates
 -------------------
-Rune-Scarred Demon - 69.92
-Razaketh, the Foulblooded - 64.14
-Esper Sentinel - 67.88
-Smothering Tithe - 66.64
-Reanimate - 65.57
-Grand Abolisher - 60.13
-**Demonic Tutor - 86.53
-**Vampiric Tutor - 76.87
-**Ancient Tomb - 68.68
-**Teferi's Protection - 65.41
-**Enlightened Tutor - 55.45
-**Chrome Mox - 53.68
-**The One Ring - 48.16
-**Mox Diamond - 45.19
-**Imperial Seal - 44.28
-Mother of Runes - 50.30
-Dark Ritual - 49.03
-Anguished Unmaking - 40.78
-Wheel of Fortune - 48.43
-Animate Dead - 47.23
-Urborg, Tomb of Yawgmoth - 45.12
-Sol Ring - 97.49
-Lotus Petal - 46.12
-Scrubland - 93.28
-Badlands - 93.25
-Plateau - 93.08
-Mana Confluence - 62.13
-City of Brass - 60.80
-Cavern of Souls - 59.96
-Polluted Delta - 44.49
-Verdant Catacombs - 43.11
-Flooded Strand - 42.28
-Windswept Heath - 42.21
-Scalding Tarn - 40.54
+Rune-Scarred Demon - 70.04
+Razaketh, the Foulblooded - 64.09
+Esper Sentinel - 67.84
+Smothering Tithe - 66.63
+Reanimate - 65.53
+Grand Abolisher - 60.15
+**Demonic Tutor - 86.51
+**Vampiric Tutor - 76.79
+**Ancient Tomb - 68.60
+**Teferi's Protection - 65.50
+**Enlightened Tutor - 55.38
+**Chrome Mox - 53.67
+**The One Ring - 48.26
+**Mox Diamond - 45.16
+**Imperial Seal - 44.22
+Mother of Runes - 50.37
+Dark Ritual - 48.93
+Anguished Unmaking - 41.02
+Wheel of Fortune - 48.46
+Animate Dead - 47.09
+Urborg, Tomb of Yawgmoth - 45.19
+Sol Ring - 97.39
+Lotus Petal - 46.13
+Scrubland - 93.49
+Badlands - 93.45
+Plateau - 93.29
+Mana Confluence - 62.16
+City of Brass - 60.82
+Cavern of Souls - 59.99
+Polluted Delta - 44.59
+Verdant Catacombs - 43.22
+Flooded Strand - 42.38
+Windswept Heath - 42.32
+Scalding Tarn - 40.65
 
 
 Recommended Cuts
 -------------------
-Dragon Tempest - 39.97%
+Dragon Tempest - 39.91%
 Ancient Brass Dragon - 38.74%
-Isshin, Two Heavens as One - 36.23%
-Phyrexian Arena - 36.20%
-Bloodletter of Aclazotz - 34.53%
-Bloodthirster - 34.46%
-Rakdos Signet - 32.65%
-Orzhov Signet - 31.62%
-Reya Dawnbringer - 31.22%
-Boros Signet - 30.45%
-Angel of Despair - 28.58%
-Ruinous Ultimatum - 25.00%
-Blast-Furnace Hellkite - 24.23%
-Archfiend of Depravity - 24.03%
-Angel of Serenity - 23.30%
-Platinum Angel - 18.92%
-Herald of Eternal Dawn - 15.29%
-Bruna, the Fading Light - 15.01%
-Gisela, the Broken Blade - 14.97%
-Lavaspur Boots - 9.24%
+Isshin, Two Heavens as One - 36.31%
+Phyrexian Arena - 36.24%
+Bloodletter of Aclazotz - 34.60%
+Bloodthirster - 34.44%
+Rakdos Signet - 32.67%
+Orzhov Signet - 31.60%
+Reya Dawnbringer - 31.16%
+Boros Signet - 30.39%
+Angel of Despair - 28.56%
+Ruinous Ultimatum - 24.88%
+Blast-Furnace Hellkite - 24.18%
+Archfiend of Depravity - 24.08%
+Angel of Serenity - 23.25%
+Platinum Angel - 18.94%
+Herald of Eternal Dawn - 15.22%
+Bruna, the Fading Light - 15.03%
+Gisela, the Broken Blade - 15.00%
+Lavaspur Boots - 9.33%
 Aegis Angel - Card not found
 Liliana's Contract - Card not found
 Bloodgift Demon - Card not found

@@ -1,52 +1,52 @@
 Recommended Updates
 -------------------
-**Serra's Sanctum - 85.33
-**Rhystic Study - 75.55
-**Enlightened Tutor - 74.76
-**Smothering Tithe - 63.41
-**Cyclonic Rift - 58.36
-**Fierce Guardianship - 52.37
-**Teferi's Protection - 47.79
-Heroic Intervention - 40.06
-Idyllic Tutor - 54.89
-Exploration - 52.21
-Boseiju, Who Endures - 53.94
-Yavimaya, Cradle of Growth - 47.48
-Sol Ring - 59.46
-Tropical Island - 95.27
-Savannah - 95.11
-Tundra - 94.64
+**Serra's Sanctum - 84.99
+**Rhystic Study - 75.83
+**Enlightened Tutor - 74.72
+**Smothering Tithe - 63.67
+**Cyclonic Rift - 58.45
+**Fierce Guardianship - 52.76
+**Teferi's Protection - 48.03
+Heroic Intervention - 40.60
+Idyllic Tutor - 54.82
+Exploration - 52.13
+Boseiju, Who Endures - 54.19
+Yavimaya, Cradle of Growth - 47.71
+Sol Ring - 60.03
+Tropical Island - 95.26
+Savannah - 95.10
+Tundra - 94.63
 
 
 Recommended Cuts
 -------------------
-Enchanted Evening - 39.43%
-Ancestral Mask - 38.49%
-Grasp of Fate - 38.01%
-Ethereal Armor - 36.75%
-Mirari's Wake - 36.75%
-Kenrith's Transformation - 36.59%
-Greater Auramancy - 36.28%
-Entity Tracker - 35.81%
-Calix, Guided by Fate - 35.80%
-Song of the Dryads - 35.49%
-Hallowed Haunting - 35.33%
-All That Glitters - 34.54%
-Imprisoned in the Moon - 34.38%
-Counterspell - 33.28%
-Amphibian Downpour - 32.80%
-Inquisitive Glimmer - 32.79%
-Bear Umbra - 31.07%
-Archon of Sun's Grace - 30.76%
-Path to Exile - 30.13%
-Mirrormade - 28.39%
-Karmic Justice - 28.23%
-Supreme Verdict - 26.18%
-Starfield of Nyx - 21.61%
-Starfield Mystic - 20.50%
+Enchanted Evening - 39.49%
+Ancestral Mask - 38.55%
+Grasp of Fate - 37.76%
+Ethereal Armor - 36.97%
+Kenrith's Transformation - 36.49%
+Mirari's Wake - 36.49%
+Greater Auramancy - 36.33%
+Entity Tracker - 36.28%
+Song of the Dryads - 35.55%
+Calix, Guided by Fate - 35.55%
+Hallowed Haunting - 35.07%
+All That Glitters - 34.60%
+Imprisoned in the Moon - 34.28%
+Counterspell - 33.33%
+Amphibian Downpour - 32.60%
+Inquisitive Glimmer - 32.56%
+Bear Umbra - 30.81%
+Archon of Sun's Grace - 30.49%
+Path to Exile - 30.17%
+Mirrormade - 28.12%
+Karmic Justice - 28.12%
+Supreme Verdict - 26.22%
+Starfield of Nyx - 21.48%
+Starfield Mystic - 20.06%
 Eaten by Piranhas - 15.41%
-Calix, Destiny's Hand - 14.98%
-Austere Command - 8.99%
+Calix, Destiny's Hand - 15.01%
+Austere Command - 9.00%
 Mystic Gate - Card not found
 Wooded Bastion - Card not found
 Bala Ged Recovery // Bala Ged Sanctuary - Card not found

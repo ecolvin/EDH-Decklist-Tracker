@@ -2,7 +2,7 @@ Recommended Updates
 -------------------
 Wheel of Fortune - 72.15
 **Ancient Tomb - 74.68
-**The One Ring - 62.03
+**The One Ring - 60.76
 **Mana Vault - 51.90
 **Chrome Mox - 41.77
 **Gamble - 41.77
