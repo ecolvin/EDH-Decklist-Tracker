@@ -1,99 +1,57 @@
 Recommended Updates
 -------------------
-Sage of Ancient Lore - 100.00
-Swan Song - 100.00
-**Force of Will - 50.00
-**Fierce Guardianship - 50.00
-**Rhystic Study - 50.00
-Disciple of Freyalise - 100.00
-Tatyova, Benthic Druid - 50.00
-Hydroid Krasis - 50.00
-Oracle of Mul Daya - 50.00
-Wood Elves - 50.00
-Glasspool Mimic - 50.00
-Trygon Predator - 50.00
-Topiary Stomper - 50.00
-Jolrael, Mwonvuli Recluse - 50.00
-An Offer You Can't Refuse - 50.00
-Heroic Intervention - 50.00
-Stubborn Denial - 50.00
-Archdruid's Charm - 50.00
-Essence Flux - 50.00
-Flare of Cultivation - 100.00
-Kodama's Reach - 75.00
-Sea Gate Restoration - 75.00
-Cultivate - 75.00
-Skyshroud Claim - 50.00
-Curse of the Swine - 50.00
-Finale of Revelation - 50.00
-Recurring Insight - 50.00
-Bala Ged Recovery - 50.00
-Lightning Greaves - 50.00
-Venser's Journal - 50.00
-Exploration - 50.00
-Garruk, Primal Hunter - 50.00
-Yavimaya, Cradle of Growth - 75.00
-Sol Ring - 50.00
-Disciple of Freyalise - 100.00
-Tropical Island - 100.00
-Sea Gate Restoration - 75.00
-Fabled Passage - 50.00
-Barkchannel Pathway - 50.00
-Reflecting Pool - 50.00
-Temple of Mystery - 50.00
-Demolition Field - 50.00
-Glasspool Mimic - 50.00
-Scalding Tarn - 50.00
-Bala Ged Recovery - 50.00
+Sol Ring - 74.47%
+Cultivate - 59.57%
+Kodama's Reach - 55.32%
+Temple of Mystery - 48.94%
 
 
 Recommended Cuts
 -------------------
-Garruk's Uprising - 25.00%
-Sylvan Library - 25.00%
-Bane of Progress - 25.00%
-Spellbook - 25.00%
-Kruphix, God of Horizons - 25.00%
-Masumaro, First to Live - 25.00%
-Empyrial Plate - 25.00%
-Coiling Oracle - 25.00%
-Flood of Tears - 25.00%
-Chasm Skulker - 25.00%
-Jolrael, Voice of Zhalfir - 25.00%
-Selvala, Heart of the Wilds - 25.00%
-Last March of the Ents - 25.00%
-Minas Tirith Garrison - 25.00%
-Duggan, Private Detective - 25.00%
-Arcane Signet - 25.00%
-Beast Within - 25.00%
-Growth Spiral - 25.00%
-Arcane Denial - 25.00%
-Pongify - 25.00%
-Lorescale Coatl - Card not found
+Rampant Growth - 38.30%
+Mordenkainen - 38.30%
+Momentous Fall - 36.17%
+Aeon Chronicler - 36.17%
+Nature's Lore - 34.04%
+Chasm Skulker - 34.04%
+Tishana, Voice of Thunder - 34.04%
+Disciple of Freyalise // Garden of Freyalise - 32.14%
+Farseek - 31.91%
+Rapid Hybridization - 31.91%
+Pongify - 31.91%
+Lorescale Coatl - 29.79%
+Spellbook - 29.79%
+Soramaro, First to Dream - 29.79%
+Three Visits - 29.79%
+Sakura-Tribe Elder - 29.79%
+Proft's Eidetic Memory - 28.95%
+Coiling Oracle - 27.66%
+Selvala, Heart of the Wilds - 27.66%
+Planar Genesis - 25.93%
+Sea Gate Restoration // Sea Gate, Reborn - 25.53%
+Alrund, God of the Cosmos // Hakka, Whispering Raven - 25.53%
+Mana Drain - 25.53%
+Syr Elenora, the Discerning - 23.40%
+**Consecrated Sphinx - 21.28%
+Robobrain War Mind - 19.44%
+Kruphix, God of Horizons - 19.15%
+Glasspool Mimic // Glasspool Shore - 17.02%
+Bane of Progress - 14.89%
+Nezahal, Primal Tide - 14.89%
+Last March of the Ents - 14.89%
+Twenty-Toed Toad - 13.04%
+Sylvan Library - 12.77%
+Bala Ged Recovery // Bala Ged Sanctuary - 12.77%
+Minas Tirith Garrison - 12.77%
+Sink into Stupor // Soporific Springs - 10.71%
+Bridgeworks Battle // Tanglespan Bridgeworks - 10.71%
+Library of Leng - 6.38%
+Flood of Tears - 6.38%
+Castle Garenbrig - Card not found
 Minamo, School at Water's Edge - Card not found
 Toothy, Imaginary Friend - Card not found
-Sage of Ancient Lore // Werewolf of Ancient Hunger - Card not found
-Library of Leng - Card not found
-Bala Ged Recovery // Bala Ged Sanctuary - Card not found
-Sea Gate Restoration // Sea Gate, Reborn - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
-Glasspool Mimic // Glasspool Shore - Card not found
-Nezahal, Primal Tide - Card not found
-Barkchannel Pathway // Tidechannel Pathway - Card not found
-Alrund, God of the Cosmos // Hakka, Whispering Raven - Card not found
-Riptide Laboratory - Card not found
-Hedge Maze - Card not found
-Proft's Eidetic Memory - Card not found
-Robobrain War Mind - Card not found
 Cold-Eyed Selkie - Card not found
-Disciple of Freyalise // Garden of Freyalise - Card not found
 Drowner of Truth // Drowned Jungle - Card not found
-Sink into Stupor // Soporific Springs - Card not found
-Bridgeworks Battle // Tanglespan Bridgeworks - Card not found
-Planar Genesis - Card not found
-Hydroelectric Specimen // Hydroelectric Laboratory - Card not found
 Castle Vantress - Card not found
-Twenty-Toed Toad - Card not found
-Willowrush Verge - Card not found
-Maro - Card not found
 Triskaidekaphile - Card not found

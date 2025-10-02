@@ -1,32 +1,59 @@
 Recommended Updates
 -------------------
-**The One Ring - 74.66
-**Smothering Tithe - 59.95
-**Teferi's Protection - 58.47
-**Demonic Tutor - 51.05
-**Vampiric Tutor - 42.89
-Sorin of House Markov - 42.07
-Chatterfang, Squirrel General - 40.42
-Yavimaya, Cradle of Growth - 59.58
-Urborg, Tomb of Yawgmoth - 54.76
-Sol Ring - 93.08
-Savannah - 65.76
-Bayou - 65.02
-Scrubland - 64.15
+Sol Ring - 93.75%
+Sandsteppe Citadel - 73.94%
+Canopy Vista - 70.36%
+Cultivate - 67.18%
+Rogue's Passage - 61.69%
+Revive the Shire - 60.77%
+Fortified Village - 60.28%
+Necroblossom Snarl - 59.12%
+Shineshadow Snarl - 58.62%
+Prosperous Innkeeper - 54.67%
+Elanor Gardner - 54.57%
+Mortify - 52.74%
+Gwaihir, Greatest of the Eagles - 52.21%
+Essence Warden - 51.88%
+Scattered Groves - 51.09%
+Field-Tested Frying Pan - 49.58%
+Lobelia, Defender of Bag End - 49.47%
+Access Tunnel - 49.36%
+Well of Lost Dreams - 48.70%
+Night's Whisper - 47.14%
+Go for the Throat - 47.11%
+Motivated Pony - 46.00%
+Chromatic Lantern - 45.56%
+Many Partings - 45.08%
+Scoured Barrens - 43.69%
+Fell the Mighty - 43.37%
+Graypelt Refuge - 43.26%
+Bilbo, Birthday Celebrant - 42.35%
 
 
 Recommended Cuts
 -------------------
-Of Herbs and Stewed Rabbit - 38.94%
-Kambal, Profiteering Mayor - 37.42%
-Ygra, Eater of All - 35.84%
-Deadly Rollick - 34.73%
-Idol of Oblivion - 29.30%
-Dusk // Dawn - 27.69%
-Flawless Maneuver - 21.88%
-Mortality Spear - 15.33%
-Midnight Snack - 12.76%
-Deadly Dispute - 11.74%
+Vito, Thorn of the Dusk Rose - 34.58%
+Nuka-Cola Vending Machine - 33.50%
+Heroic Intervention - 32.26%
+Gyome, Master Chef - 30.41%
+Experimental Confectioner - 29.21%
+Idol of Oblivion - 26.20%
+Ygra, Eater of All - 22.80%
+Assassin's Trophy - 22.73%
+Sorin of House Markov // Sorin, Ravenous Neonate - 22.70%
+Kambal, Profiteering Mayor - 22.20%
+Nature's Lore - 21.40%
+Mortality Spear - 19.61%
+Parallel Lives - 18.91%
+Mondrak, Glory Dominus - 17.78%
+Midnight Snack - 16.97%
+Delney, Streetwise Lookout - 16.28%
+Anointed Procession - 14.82%
+Three Visits - 14.70%
+Ocelot Pride - 14.21%
+Flawless Maneuver - 9.36%
+Deadly Dispute - 8.36%
+Deadly Rollick - 7.25%
 Nurturing Peatland - Card not found
 Silent Clearing - Card not found
 Bala Ged Recovery // Bala Ged Sanctuary - Card not found
@@ -34,7 +61,7 @@ Agadeem's Awakening // Agadeem, the Undercrypt - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
 Pitiless Carnage - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
-Sorin of House Markov // Sorin, Ravenous Neonate - Card not found
 Revitalizing Repast // Old-Growth Grove - Card not found
 Fell the Profane // Fell Mire - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found
+Fountainport - Card not found

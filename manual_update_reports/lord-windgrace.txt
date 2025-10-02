@@ -1,67 +1,46 @@
 Recommended Updates
 -------------------
-Icetill Explorer - 50.00
-Strip Mine - 73.86
-**Crop Rotation - 92.13
-**Demonic Tutor - 77.66
-**Vampiric Tutor - 69.80
-**Ancient Tomb - 60.66
-**Mox Diamond - 60.15
-**Gaea's Cradle - 52.03
-Elvish Reclaimer - 55.84
-Ignoble Hierarch - 48.98
-Eternal Witness - 47.97
-Birds of Paradise - 44.67
-Deathrite Shaman - 44.42
-Abrupt Decay - 48.98
-Finale of Devastation - 44.92
-Green Sun's Zenith - 44.16
-Torment of Hailfire - 40.36
-Valakut, the Molten Pinnacle - 54.31
-Wasteland - 51.02
-Cabal Coffers - 42.89
-Sol Ring - 85.79
-Taiga - 92.64
-Bayou - 92.39
-Badlands - 91.62
-Misty Rainforest - 69.54
-Windswept Heath - 64.97
-Arid Mesa - 58.88
-Marsh Flats - 58.12
-Scalding Tarn - 57.36
-Polluted Delta - 55.33
-Commercial District - 43.03
-Underground Mortuary - 40.56
+**Crop Rotation - 77.11%
+Sol Ring - 75.27%
+Cultivate - 53.57%
+Golgari Rot Farm - 47.93%
+Gruul Turf - 47.42%
+Strip Mine - 46.63%
+Icetill Explorer - 46.29%
+Eternal Witness - 44.62%
+Zuran Orb - 44.59%
+Cinder Glade - 43.42%
+Elvish Reclaimer - 41.01%
+Retreat to Hagra - 40.27%
 
 
 Recommended Cuts
 -------------------
-Orcish Lumberjack - 36.29%
-Farseek - 34.52%
-Tireless Tracker - 32.74%
-Walk-In Closet // Forgotten Cellar - 31.25%
-Ob Nixilis, the Fallen - 30.46%
-Soul of Windgrace - 30.20%
-Beast Within - 28.17%
-Sylvan Safekeeper - 27.16%
-Blasphemous Act - 26.14%
-World Shaper - 24.87%
-Deadly Rollick - 23.60%
-Rampaging Baloths - 23.35%
-Worldsoul's Rage - 23.17%
-Mina and Denn, Wildborn - 23.10%
-Harrow - 23.10%
-Wayward Swordtooth - 20.56%
-Lumra, Bellow of the Woods - 20.56%
-Courser of Kruphix - 14.97%
-Loot, Exuberant Explorer - 14.95%
-Windgrace's Judgment - 14.21%
-Entish Restoration - 8.38%
-Bala Ged Recovery // Bala Ged Sanctuary - Card not found
+World Shaper - 39.35%
+Wrenn and Six - 38.82%
+Toxic Deluge - 37.14%
+**Glacial Chasm - 36.35%
+Windgrace's Judgment - 34.98%
+Courser of Kruphix - 31.70%
+Wayward Swordtooth - 29.31%
+Burgeoning - 29.18%
+Squandered Resources - 28.95%
+Worldsoul's Rage - 28.71%
+Sylvan Safekeeper - 27.07%
+Putrefy - 26.81%
+Sylvan Library - 25.82%
+Walk-In Closet // Forgotten Cellar - 24.94%
+Entish Restoration - 24.19%
+Loot, Exuberant Explorer - 21.14%
+Orcish Lumberjack - 21.04%
+Nissa, Resurgent Animist - 20.33%
+Lumra, Bellow of the Woods - 18.84%
+Bala Ged Recovery // Bala Ged Sanctuary - 17.76%
+Deflecting Swat - 15.39%
+Deadly Rollick - 12.13%
+Fell the Profane // Fell Mire - 6.22%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found
 Agadeem's Awakening // Agadeem, the Undercrypt - Card not found
-Putrefy - Card not found
-Fell the Profane // Fell Mire - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found
-Twisted Landscape - Card not found
+Horizon of Progress - Card not found

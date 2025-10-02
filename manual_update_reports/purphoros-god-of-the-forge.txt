@@ -1,53 +1,35 @@
 Recommended Updates
 -------------------
-Wheel of Fortune - 72.15
-**Ancient Tomb - 74.68
-**The One Ring - 62.03
-**Mana Vault - 51.90
-**Chrome Mox - 41.77
-**Gamble - 41.77
-Imperial Recruiter - 59.49
-Ojer Axonil, Deepest Might - 56.96
-Ragavan, Nimble Pilferer - 53.16
-Birgi, God of Storytelling - 53.16
-Goblin Matron - 50.63
-Magus of the Moon - 46.84
-Dockside Extortionist - 40.51
-Twinflame - 40.51
-Blood Moon - 58.23
-Urza's Saga - 62.03
-Sol Ring - 98.73
-Cavern of Souls - 50.63
+Sol Ring - 91.35%
+Goblin Matron - 51.15%
+Battle Hymn - 42.62%
+Goblin Rally - 40.97%
 
 
 Recommended Cuts
 -------------------
-Chandra's Incinerator - 39.24%
-Mind Stone - 39.24%
-Molten Gatekeeper - 39.22%
-Empty the Warrens - 35.44%
-City on Fire - 34.18%
-Goblin Rabblemaster - 34.18%
-Spawn-Gang Commander - 32.69%
-Goblin Bombardment - 31.65%
-Hanweir Garrison - 29.11%
-Fellwar Stone - 25.32%
-Searslicer Goblin - 24.24%
-Faithless Looting - 24.05%
-Redcap Gutter-Dweller - 22.78%
-Fire Diamond - 13.92%
-Spiked Corridor // Torture Pit - 12.50%
-Goblin Negotiation - 12.50%
-Demand Answers - 8.70%
-Everflowing Chalice - 7.59%
-Valakut Awakening // Valakut Stoneforge - Card not found
+Spawn-Gang Commander - 37.33%
+General Kreat, the Boltbringer - 37.01%
+Redcap Gutter-Dweller - 36.64%
+Fire Diamond - 34.86%
+Neheb, the Eternal - 34.35%
+Faithless Looting - 33.72%
+Birgi, God of Storytelling // Harnfel, Horn of Bounty - 31.42%
+Cursed Mirror - 30.66%
+Hanweir Garrison - 30.53%
+Goblin Rabblemaster - 28.50%
+**Deflecting Swat - 25.83%
+Valakut Awakening // Valakut Stoneforge - 24.30%
+Fellwar Stone - 22.26%
+Searslicer Goblin - 20.87%
+Spiked Corridor // Torture Pit - 15.94%
+Demand Answers - 15.52%
+Goblin Negotiation - 11.65%
+Shatterskull Smashing // Shatterskull, the Hammer Pass - 8.40%
+Sundering Eruption // Volcanic Fissure - 7.02%
+Everflowing Chalice - 6.36%
 Spikefield Hazard // Spikefield Cave - Card not found
-Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
-Birgi, God of Storytelling // Harnfel, Horn of Bounty - Card not found
 The Irencrag - Card not found
-Ojer Axonil, Deepest Might // Temple of Power - Card not found
 Arch of Orazca - Card not found
 Ramunap Ruins - Card not found
 Barbarian Ring - Card not found
-Sundering Eruption // Volcanic Fissure - Card not found
-Pinnacle Monk // Mystic Peak - Card not found

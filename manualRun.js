@@ -8,12 +8,16 @@ import * as settings from "./settings.js";
 
 puppeteer.use(StealthPlugin());
 
+const TEST_MODE = false;
+const TEST_MOXFIELD_PATH = "./json/Zegana Moxfield.json";
+const TEST_EDHREC_PATH = "./json/Zegana.json";
+
 const edhrecURL = "https://json.edhrec.com/pages/commanders/";
 const redirectURL = "https://json.edhrec.com/pages";
 const moxfieldURL = "https://api2.moxfield.com/v3/decks/all/";
 env.config();
 
-const moxfieldDeckIDs = [
+let moxfieldDeckIDs = [
     "PHcWihiVNE6gcmZ1mYWYeg", //Atraxa Blink
     "lS9porqsm06ZHdKRZ09vGQ", //Breya Thopters
     "0BPu5Ync30avDbaObfYibw", //Esika Planeswalkers
@@ -53,33 +57,70 @@ function sanitize(text)
     return text.toLowerCase().trim().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
 }
 
-async function getUpdates(commander, theme, curList)
+async function getUpdates(commander, theme, curList, sideboard)
 {
     let endpoint = edhrecURL + commander;
     if(theme.trim() !== "")
     {
         endpoint += "/" + theme;
     }
-    if(settings.expensive)
-    {
-        endpoint += "/expensive";  //"/budget" if we want to add budget option
-    }
+    const endpointExp = endpoint + "/expensive";
     
     try
     {
         await delay(1000);   //avoid rate-limits
-        let result = await axios.get(endpoint + ".json");
-        if("redirect" in result.data)
+        let result;
+        //let expensive;
+
+        if(TEST_MODE)
         {
-            await delay(1000);   //avoid rate-limits
-            result = await axios.get(redirectURL + result.data.redirect + ".json");
+            try
+            {
+                const data = await fs.readFile(TEST_EDHREC_PATH, 'utf8');
+                result = JSON.parse(data);
+                //expensive = result;
+            }
+            catch(err)
+            {
+                console.err("Error loading JSON:", error);
+                return {};
+            }
         }
-        const cardList = reformatEDHRecData(result.data.container.json_dict.cardlists);
+        else
+        {
+            result = await axios.get(endpoint + ".json");
+            if("redirect" in result.data)
+            {
+                await delay(1000);   //avoid rate-limits
+                result = await axios.get(redirectURL + result.data.redirect + ".json");
+            }
+            result = result.data;
+
+            /*expensive = await axios.get(endpointExp + ".json");
+            if("redirect" in expensive.data)
+            {
+                await delay(1000);   //avoid rate-limits
+                expensive = await axios.get(redirectURL + expensive.data.redirect + ".json");
+            }
+            expensive = expensive.data;*/
+        }
+        const cardList = reformatEDHRecData(result.container.json_dict.cardlists);
+        //const cardListExp = reformatEDHRecData(expensive.container.json_dict.cardlist);
+        
         const topCards = cardList.filter(card => card.inclusionPercent >= settings.updateThreshold);
-        const updates = topCards.filter(card => !curList.includes(card.name)).map(card => (card.list === "Game Changers" ? "**" : "") + card.name + " - " + card.inclusionPercent);
+        //const topCardsExp = cardListExp.filter(card => card.inclusionPercent >= settings.updateThreshold);
+        
+        const updates = topCards.filter(card => {
+            const inCurList = curList.some(name => name === card.name || name.split(" // ")[0] === card.name);
+            const inSideboard = sideboard.some(name => name === card.name || name.split(" // ")[0] === card.name);
+            return !inCurList && !inSideboard;
+        }).map(card => (card.list === "Game Changers" ? "**" : "") + card.name + " - " + card.inclusionPercent + "%");
+        
+        //Add expensive percentages
+        //Fix sorting to factor in new expensive percentages/formatting
 
         const cutSuggestions = curList.flatMap(name => {
-            const cardObj = cardList.find(card => card.name === name);
+            const cardObj = cardList.find(card => card.name === name || card.name === name.split(" // ")[0]);
             if(cardObj && (cardObj.list === "Lands" || cardObj.list === "Utility Lands"))
             {
                 return [];
@@ -90,7 +131,8 @@ async function getUpdates(commander, theme, curList)
             }
             else if(cardObj.inclusionPercent <= settings.cutThreshold)
             {
-                return [`${name} - ${cardObj.inclusionPercent}%`];
+                const gcString = cardObj.list === "Game Changers" ? "**" : "";
+                return [`${gcString}${name} - ${cardObj.inclusionPercent}%`];
             }
             else
             {
@@ -198,8 +240,6 @@ async function getViaBrowser(deckId)
         const jsonText = await page.evaluate(() => {
             return document.body.textContent;
         });
-
-	console.log(jsonText);
         
         // Parse the JSON
         const deckData = JSON.parse(jsonText);
@@ -214,9 +254,28 @@ async function getViaBrowser(deckId)
     }
 }
 
+async function getTestJSON()
+{
+    try
+    {
+        const data = await fs.readFile(TEST_MOXFIELD_PATH, 'utf8');
+        return JSON.parse(data);
+    }
+    catch(err)
+    {
+        console.err("Error loading JSON:", error);
+        return {};
+    }
+}
+
 async function getMoxfieldLists()
 {
     let decklists = [];
+
+    if(TEST_MODE)
+    {
+        moxfieldDeckIDs = ["0"];
+    }
 
     for(const id of moxfieldDeckIDs)
     {
@@ -225,7 +284,14 @@ async function getMoxfieldLists()
         try
         {
             await delay(1000);   //avoid rate-limits
-            result = await getViaBrowser(id);
+            if(TEST_MODE)
+            {
+                result = await getTestJSON();
+            }
+            else
+            {
+                result = await getViaBrowser(id);
+            }
         }
         catch(err)
         {
@@ -236,6 +302,7 @@ async function getMoxfieldLists()
 
         const commanderData = result.boards.commanders;
         const cards = Object.values(result.boards.mainboard.cards);
+        const sideboard = Object.values(result.boards.sideboard.cards);
         const deckName = result.name;
 
         if(commanderData.count === 0)
@@ -260,7 +327,8 @@ async function getMoxfieldLists()
         decklists.push({
             commander: commanderName, 
             theme: sanitize(theme),
-            deckList: cards.map(card => card.card.name)
+            deckList: cards.map(card => card.card.name),
+            sideboard: sideboard.map(card => card.card.name)
         });
     }
 
@@ -272,7 +340,7 @@ async function main()
     const decklists = await getMoxfieldLists();
     for(const decklist of decklists)
     {
-        const updates = await getUpdates(decklist.commander, decklist.theme, decklist.deckList);
+        const updates = await getUpdates(decklist.commander, decklist.theme, decklist.deckList, decklist.sideboard);
         
         if(updates === null)
         {
@@ -340,6 +408,9 @@ if backwards:
 
 FUTURE FEATURES
 --------------------------
+-Ignore Sideboard cards
+-Recommend Game Changers if less than 3
+
 -Companion Checker and recommendation (if only a few cards away from being able to add a companion)
 
 */

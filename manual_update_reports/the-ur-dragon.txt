@@ -1,62 +1,42 @@
 Recommended Updates
 -------------------
-**Cyclonic Rift - 74.38
-**Teferi's Protection - 68.49
-**Rhystic Study - 67.99
-**Smothering Tithe - 67.92
-**Demonic Tutor - 63.88
-**Vampiric Tutor - 45.42
-Ureni of the Unwritten - 63.64
-Bloom Tender - 50.39
-Ancient Brass Dragon - 46.56
-Lightning Greaves - 42.58
-Dracogenesis - 61.36
-Call the Spirit Dragons - 44.19
-Sol Ring - 95.74
-Chromatic Lantern - 49.82
-Mana Crypt - 43.08
-Fellwar Stone - 41.87
-Mox Jasper - 40.43
-Volcanic Island - 99.29
-Badlands - 99.08
-Taiga - 99.08
-Bayou - 98.86
-Tropical Island - 98.65
-Plateau - 98.58
-Underground Sea - 98.51
-Savannah - 98.44
-Tundra - 97.59
-Scrubland - 95.95
-Maelstrom of the Spirit Dragon - 59.09
-Mountain - 49.54
-Breeding Pool - 46.63
-Forest - 45.99
-Temple Garden - 43.79
+Sol Ring - 92.33%
+Mountain - 84.45%
+Forest - 82.55%
+Island - 76.52%
+Swamp - 75.09%
+Plains - 74.96%
+Chromatic Lantern - 62.62%
+Maelstrom of the Spirit Dragon - 54.83%
+Call the Spirit Dragons - 50.95%
+Cultivate - 48.46%
+Dracogenesis - 47.95%
+Ureni of the Unwritten - 43.32%
+**Smothering Tithe - 40.18%
 
 
 Recommended Cuts
 -------------------
-Bladewing the Risen - 39.11%
-Assassin's Trophy - 36.34%
-Ramos, Dragon Engine - 34.99%
-Savage Ventmaw - 34.28%
-Hellkite Tyrant - 30.59%
-Up the Beanstalk - 28.18%
-Cavern-Hoard Dragon - 23.99%
-Path to Exile - 23.78%
-Smuggler's Surprise - 19.98%
-Dragonhawk, Fate's Tempest - 19.43%
-Kindred Discovery - 18.45%
-Anguished Unmaking - 17.32%
-Raugrin Triome - Card not found
+Three Visits - 39.12%
+Scion of Draco - 38.70%
+Birds of Paradise - 36.97%
+Twinflame Tyrant - 36.57%
+Roaming Throne - 34.37%
+Hellkite Tyrant - 29.42%
+Kindred Discovery - 28.77%
+The Great Henge - 26.53%
+Path to Exile - 26.34%
+Mana Drain - 20.91%
+Assassin's Trophy - 19.14%
+Cavern-Hoard Dragon - 18.92%
+Up the Beanstalk - 17.61%
+Anguished Unmaking - 15.95%
+Smuggler's Surprise - 13.15%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
-Temple of the Dragon Queen - Card not found
-Xander's Lounge - Card not found
-Secluded Courtyard - Card not found
-Unclaimed Territory - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Fell the Profane // Fell Mire - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found
 Hydroelectric Specimen // Hydroelectric Laboratory - Card not found
 Gluttonous Hellkite - Card not found
+Dragonhawk, Fate's Tempest - Card not found

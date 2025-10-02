@@ -15,4 +15,4 @@ export const smartDeckGen = true;
 export const numLands = 40;
 export const maxMDFCs = 8;
 export const offColorFetches = false;
-export const expensive = true;
+//export const expensive = false;

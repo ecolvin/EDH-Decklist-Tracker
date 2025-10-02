@@ -1,62 +1,53 @@
 Recommended Updates
 -------------------
-**Serra's Sanctum - 85.33
-**Rhystic Study - 75.55
-**Enlightened Tutor - 74.76
-**Smothering Tithe - 63.41
-**Cyclonic Rift - 58.36
-**Fierce Guardianship - 52.37
-**Teferi's Protection - 47.79
-Heroic Intervention - 40.06
-Idyllic Tutor - 54.89
-Exploration - 52.21
-Boseiju, Who Endures - 53.94
-Yavimaya, Cradle of Growth - 47.48
-Sol Ring - 59.46
-Tropical Island - 95.27
-Savannah - 95.11
-Tundra - 94.64
+Sol Ring - 60.44%
+Idyllic Tutor - 41.94%
+Winds of Rath - 41.09%
+Arcane Signet - 40.56%
+Rancor - 40.07%
 
 
 Recommended Cuts
 -------------------
-Enchanted Evening - 39.43%
-Ancestral Mask - 38.49%
-Grasp of Fate - 38.01%
-Ethereal Armor - 36.75%
-Mirari's Wake - 36.75%
-Kenrith's Transformation - 36.59%
-Greater Auramancy - 36.28%
-Entity Tracker - 35.81%
-Calix, Guided by Fate - 35.80%
-Song of the Dryads - 35.49%
-Hallowed Haunting - 35.33%
-All That Glitters - 34.54%
-Imprisoned in the Moon - 34.38%
-Counterspell - 33.28%
-Amphibian Downpour - 32.80%
-Inquisitive Glimmer - 32.79%
-Bear Umbra - 31.07%
-Archon of Sun's Grace - 30.76%
-Path to Exile - 30.13%
-Mirrormade - 28.39%
-Karmic Justice - 28.23%
-Supreme Verdict - 26.18%
-Starfield of Nyx - 21.61%
-Starfield Mystic - 20.50%
-Eaten by Piranhas - 15.41%
-Calix, Destiny's Hand - 14.98%
-Austere Command - 8.99%
+Archon of Sun's Grace - 39.94%
+Dryad of the Ilysian Grove - 39.37%
+Counterspell - 37.92%
+Inquisitive Glimmer - 37.37%
+Enchanted Evening - 36.41%
+Privileged Position - 36.19%
+Argothian Enchantress - 34.94%
+Kenrith's Transformation - 34.31%
+Grasp of Fate - 33.19%
+Entity Tracker - 31.79%
+Mirari's Wake - 31.65%
+Path to Exile - 30.42%
+Starfield Mystic - 30.21%
+Calix, Guided by Fate - 28.56%
+Amphibian Downpour - 27.50%
+Mirrormade - 27.44%
+Song of the Dryads - 24.93%
+Hallowed Haunting - 24.66%
+Karmic Justice - 24.19%
+Mystic Remora - 23.29%
+Noble Hierarch - 21.92%
+Replenish - 20.80%
+Birds of Paradise - 20.31%
+Greater Auramancy - 19.91%
+Supreme Verdict - 19.69%
+Calix, Destiny's Hand - 18.87%
+Sylvan Library - 18.46%
+Starfield of Nyx - 17.61%
+Eaten by Piranhas - 16.14%
+Austere Command - 12.14%
+Mana Drain - 11.08%
+Bala Ged Recovery // Bala Ged Sanctuary - 7.05%
 Mystic Gate - Card not found
 Wooded Bastion - Card not found
-Bala Ged Recovery // Bala Ged Sanctuary - Card not found
 Sea Gate Restoration // Sea Gate, Reborn - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
 Waterlogged Grove - Card not found
 Horizon Canopy - Card not found
 Idolized - Card not found
-Flooded Grove - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
-Strength of the Harvest // Haven of the Harvest - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found
 Hydroelectric Specimen // Hydroelectric Laboratory - Card not found
