@@ -1,44 +1,44 @@
 Recommended Updates
 -------------------
-Sol Ring - 84.84%
-Island - 76.05%
-Forest - 75.38%
-Plains - 73.97%
-Swamp - 70.60%
-Mountain - 66.89%
-Karn's Bastion - 54.88%
-Swords to Plowshares - 49.39%
-**Narset, Parter of Veils - 48.76%
-The World Tree - 48.05%
-Brokers Ascendancy - 45.46%
-**Teferi's Protection - 42.23%
-Farewell - 40.30%
+Sol Ring - 84.97%
+Island - 76.12%
+Forest - 75.46%
+Plains - 74.21%
+Swamp - 70.76%
+Mountain - 67.03%
+Karn's Bastion - 54.87%
+Swords to Plowshares - 49.28%
+**Narset, Parter of Veils - 48.78%
+The World Tree - 47.81%
+Brokers Ascendancy - 45.17%
+**Teferi's Protection - 42.10%
+Farewell - 40.16%
 
 
 Recommended Cuts
 -------------------
-Kaya the Inexorable - 39.75%
-Three Visits - 38.82%
-Supreme Verdict - 38.67%
-Teferi, Time Raveler - 38.41%
-Ripples of Potential - 35.71%
-Jace, the Mind Sculptor - 26.73%
-Narset Transcendent - 26.47%
-Arena Rector - 25.29%
-Mutational Advantage - 25.10%
-Blasphemous Act - 24.99%
-Innkeeper's Talent - 24.15%
-Eerie Ultimatum - 21.10%
-Deploy the Gatewatch - 20.62%
-Toxic Deluge - 16.13%
-Blasphemous Edict - 12.32%
-Mox Amber - 11.98%
-Vanquish the Horde - 10.98%
-Aetheric Amplifier - 10.46%
-Ruinous Ultimatum - 7.90%
-Staff of Compleation - 7.79%
-Austere Command - 6.49%
-Kamahl's Druidic Vow - 5.86%
+Kaya the Inexorable - 39.65%
+Supreme Verdict - 38.99%
+Three Visits - 38.87%
+Teferi, Time Raveler - 38.83%
+Ripples of Potential - 35.67%
+Jace, the Mind Sculptor - 26.76%
+Narset Transcendent - 26.37%
+Arena Rector - 25.13%
+Mutational Advantage - 25.06%
+Blasphemous Act - 24.70%
+Innkeeper's Talent - 24.03%
+Eerie Ultimatum - 21.01%
+Deploy the Gatewatch - 20.58%
+Toxic Deluge - 15.96%
+Blasphemous Edict - 12.53%
+Mox Amber - 12.16%
+Vanquish the Horde - 11.26%
+Aetheric Amplifier - 10.67%
+Ruinous Ultimatum - 7.92%
+Staff of Compleation - 7.65%
+Austere Command - 6.56%
+Kamahl's Druidic Vow - 5.75%
 Fires of Invention - Card not found
 Genesis Ultimatum - Card not found
 Forbidden Orchard - Card not found

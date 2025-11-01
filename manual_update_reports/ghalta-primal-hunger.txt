@@ -5,26 +5,27 @@ Recommended Updates
 
 Recommended Cuts
 -------------------
-Terastodon - 39.37%
-Nylea, Keen-Eyed - 37.98%
-Gwenna, Eyes of Gaea - 37.98%
-Emerald Medallion - 37.28%
-Silverback Elder - 34.49%
-Railway Brawler - 33.48%
-Elder Gargaroth - 31.36%
-Elemental Bond - 31.36%
-Excalibur, Sword of Eden - 28.36%
-Disciple of Freyalise // Garden of Freyalise - 25.94%
-Wild Growth - 25.78%
-Lovestruck Beast // Heart's Desire - 24.39%
-Khalni Ambush // Khalni Territory - 18.47%
-Bridgeworks Battle // Tanglespan Bridgeworks - 18.40%
-Questing Beast - 17.07%
-Bala Ged Recovery // Bala Ged Sanctuary - 12.89%
-**Worldly Tutor - 12.54%
-Turntimber Symbiosis // Turntimber, Serpentine Wood - 8.36%
-**Natural Order - 7.32%
-Herd Heirloom - 7.02%
-**Ancient Tomb - 5.23%
-The Dominion Bracelet - 5.00%
+Old-Growth Troll - 39.15%
+Gwenna, Eyes of Gaea - 37.72%
+Terastodon - 37.72%
+Nylea, Keen-Eyed - 37.01%
+Emerald Medallion - 36.65%
+Railway Brawler - 34.19%
+Silverback Elder - 33.81%
+Elder Gargaroth - 31.32%
+Elemental Bond - 30.96%
+Excalibur, Sword of Eden - 26.83%
+Disciple of Freyalise // Garden of Freyalise - 26.39%
+Wild Growth - 26.33%
+Lovestruck Beast // Heart's Desire - 24.20%
+Khalni Ambush // Khalni Territory - 19.22%
+Bridgeworks Battle // Tanglespan Bridgeworks - 18.52%
+Questing Beast - 17.44%
+Bala Ged Recovery // Bala Ged Sanctuary - 13.52%
+**Worldly Tutor - 12.81%
+Herd Heirloom - 9.09%
+Turntimber Symbiosis // Turntimber, Serpentine Wood - 8.90%
+**Natural Order - 7.47%
+The Dominion Bracelet - 6.00%
+**Ancient Tomb - 5.34%
 Bane of Progress - Card not found

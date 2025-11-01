@@ -1,46 +1,44 @@
 Recommended Updates
 -------------------
-Sol Ring - 86.20%
-Master Trinketeer - 53.20%
-Chromatic Lantern - 49.16%
-Steel Overseer - 43.43%
-Reckless Fireweaver - 42.76%
-Etherium Sculptor - 42.76%
-Depose // Deploy - 41.08%
-Tempered Steel - 41.08%
-Gold-Forged Thopteryx - 40.74%
-Thoughtcast - 40.40%
-Mystic Monastery - 40.40%
+Sol Ring - 85.91%
+Master Trinketeer - 51.34%
+Chromatic Lantern - 49.66%
+Etherium Sculptor - 43.62%
+Steel Overseer - 42.95%
+Reckless Fireweaver - 42.28%
+Mystic Monastery - 40.94%
+Tempered Steel - 40.60%
+Depose // Deploy - 40.27%
 
 
 Recommended Cuts
 -------------------
-Ornithopter - 39.73%
-Losheel, Clockwork Scholar - 39.39%
-Sword of the Meek - 37.71%
-Leonardo da Vinci - 35.69%
-Dovin, Grand Arbiter - 34.01%
-Anointed Procession - 33.00%
-Counterspell - 30.64%
-Harried Dronesmith - 29.63%
-Fellwar Stone - 28.96%
-Pia Nalaar, Consul of Revival - 28.62%
-Warleader's Call - 23.70%
-Mondrak, Glory Dominus - 22.90%
-Storm the Vault // Vault of Catlacan - 21.55%
-Talisman of Creativity - 17.51%
-Talisman of Progress - 17.17%
-Intrude on the Mind - 17.04%
-Talisman of Dominance - 16.16%
-Talisman of Conviction - 15.15%
-Mox Opal - 12.46%
-Perplexing Test - 12.46%
-Shared Animosity - 11.45%
-Talisman of Hierarchy - 10.77%
-Banner of Kinship - 10.40%
-Talisman of Indulgence - 8.75%
-Kindred Discovery - 7.07%
-Mana Drain - 5.72%
+Ornithopter - 39.26%
+Losheel, Clockwork Scholar - 38.93%
+Sword of the Meek - 36.24%
+Leonardo da Vinci - 35.23%
+Anointed Procession - 33.56%
+Dovin, Grand Arbiter - 33.22%
+Counterspell - 31.21%
+Harried Dronesmith - 28.32%
+Fellwar Stone - 28.19%
+Pia Nalaar, Consul of Revival - 27.85%
+Warleader's Call - 23.66%
+Mondrak, Glory Dominus - 22.48%
+Storm the Vault // Vault of Catlacan - 21.81%
+Talisman of Progress - 16.78%
+Intrude on the Mind - 16.49%
+Talisman of Creativity - 16.44%
+Talisman of Dominance - 15.77%
+Talisman of Conviction - 14.77%
+Mox Opal - 12.42%
+Perplexing Test - 12.42%
+Shared Animosity - 11.07%
+Banner of Kinship - 10.37%
+Talisman of Hierarchy - 9.73%
+Talisman of Indulgence - 8.72%
+Kindred Discovery - 7.05%
+Mana Drain - 5.70%
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Flawless Maneuver - Card not found
