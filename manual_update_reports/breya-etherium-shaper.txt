@@ -1,47 +1,46 @@
 Recommended Updates
 -------------------
-Sol Ring - 85.91%
-Master Trinketeer - 51.34%
-Chromatic Lantern - 49.66%
-Etherium Sculptor - 43.62%
-Steel Overseer - 42.95%
-Reckless Fireweaver - 42.28%
-Mystic Monastery - 40.94%
-Tempered Steel - 40.60%
-Depose // Deploy - 40.27%
+Sol Ring - 85.95%
+Chromatic Lantern - 50.33%
+Master Trinketeer - 48.04%
+Etherium Sculptor - 44.12%
+Reckless Fireweaver - 41.83%
+Steel Overseer - 40.85%
+Mystic Monastery - 40.20%
 
 
 Recommended Cuts
 -------------------
-Ornithopter - 39.26%
-Losheel, Clockwork Scholar - 38.93%
-Sword of the Meek - 36.24%
-Leonardo da Vinci - 35.23%
-Anointed Procession - 33.56%
-Dovin, Grand Arbiter - 33.22%
-Counterspell - 31.21%
-Harried Dronesmith - 28.32%
-Fellwar Stone - 28.19%
-Pia Nalaar, Consul of Revival - 27.85%
-Warleader's Call - 23.66%
-Mondrak, Glory Dominus - 22.48%
-Storm the Vault // Vault of Catlacan - 21.81%
-Talisman of Progress - 16.78%
-Intrude on the Mind - 16.49%
-Talisman of Creativity - 16.44%
-Talisman of Dominance - 15.77%
-Talisman of Conviction - 14.77%
-Mox Opal - 12.42%
-Perplexing Test - 12.42%
-Shared Animosity - 11.07%
-Banner of Kinship - 10.37%
-Talisman of Hierarchy - 9.73%
-Talisman of Indulgence - 8.72%
-Kindred Discovery - 7.05%
-Mana Drain - 5.70%
+Liberator, Urza's Battlethopter - 39.22%
+Ornithopter - 37.25%
+Losheel, Clockwork Scholar - 36.93%
+Sword of the Meek - 36.27%
+Leonardo da Vinci - 34.30%
+Anointed Procession - 33.01%
+Dovin, Grand Arbiter - 31.37%
+Counterspell - 30.72%
+Fellwar Stone - 30.07%
+Pia Nalaar, Consul of Revival - 27.45%
+Harried Dronesmith - 27.05%
+Storm the Vault // Vault of Catlacan - 23.53%
+Warleader's Call - 22.60%
+Mondrak, Glory Dominus - 20.92%
+Talisman of Progress - 16.67%
+Talisman of Dominance - 16.34%
+Talisman of Creativity - 16.01%
+Intrude on the Mind - 15.75%
+Talisman of Conviction - 14.05%
+Mox Opal - 13.07%
+Perplexing Test - 12.09%
+Shared Animosity - 10.78%
+Banner of Kinship - 10.07%
+Talisman of Hierarchy - 9.15%
+Talisman of Indulgence - 8.82%
+Kindred Discovery - 6.86%
+Mana Drain - 5.88%
+Flawless Maneuver - Card not found
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
-Flawless Maneuver - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Sink into Stupor // Soporific Springs - Card not found
 Fell the Profane // Fell Mire - Card not found

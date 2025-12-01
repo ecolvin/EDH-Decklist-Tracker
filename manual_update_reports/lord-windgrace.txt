@@ -1,43 +1,43 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 77.03%
-Sol Ring - 74.88%
-Cultivate - 53.16%
-Golgari Rot Farm - 47.40%
-Gruul Turf - 46.92%
-Strip Mine - 46.65%
-Icetill Explorer - 46.09%
+**Crop Rotation - 77.20%
+Sol Ring - 74.92%
+Cultivate - 53.09%
+Golgari Rot Farm - 47.52%
+Gruul Turf - 47.08%
+Strip Mine - 46.38%
+Icetill Explorer - 45.31%
 Zuran Orb - 44.60%
-Eternal Witness - 44.18%
-Cinder Glade - 43.41%
-Elvish Reclaimer - 41.10%
-Retreat to Hagra - 40.16%
+Eternal Witness - 43.90%
+Cinder Glade - 43.21%
+Elvish Reclaimer - 40.67%
+Retreat to Hagra - 40.28%
 
 
 Recommended Cuts
 -------------------
-Wrenn and Six - 39.15%
-World Shaper - 39.10%
-Toxic Deluge - 37.45%
-**Glacial Chasm - 36.50%
-Windgrace's Judgment - 34.82%
-Courser of Kruphix - 31.55%
-Squandered Resources - 29.45%
-Burgeoning - 29.19%
-Wayward Swordtooth - 29.11%
-Worldsoul's Rage - 28.72%
-Sylvan Safekeeper - 27.33%
-Putrefy - 26.58%
-Sylvan Library - 25.84%
-Walk-In Closet // Forgotten Cellar - 24.65%
-Entish Restoration - 24.19%
-Orcish Lumberjack - 21.05%
-Loot, Exuberant Explorer - 20.97%
-Nissa, Resurgent Animist - 20.49%
-Lumra, Bellow of the Woods - 18.99%
-Bala Ged Recovery // Bala Ged Sanctuary - 17.60%
-Deflecting Swat - 15.55%
-Deadly Rollick - 12.09%
+Wrenn and Six - 38.89%
+World Shaper - 38.59%
+Toxic Deluge - 37.17%
+**Glacial Chasm - 36.28%
+Windgrace's Judgment - 34.55%
+Courser of Kruphix - 31.10%
+Squandered Resources - 29.18%
+Burgeoning - 28.93%
+Worldsoul's Rage - 28.89%
+Wayward Swordtooth - 28.84%
+Sylvan Safekeeper - 27.20%
+Putrefy - 26.56%
+Sylvan Library - 25.58%
+Walk-In Closet // Forgotten Cellar - 24.26%
+Entish Restoration - 23.91%
+Orcish Lumberjack - 21.33%
+Loot, Exuberant Explorer - 20.60%
+Nissa, Resurgent Animist - 20.24%
+Lumra, Bellow of the Woods - 18.98%
+Bala Ged Recovery // Bala Ged Sanctuary - 17.51%
+Deflecting Swat - 15.65%
+Deadly Rollick - 11.86%
 Fell the Profane // Fell Mire - 6.19%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found

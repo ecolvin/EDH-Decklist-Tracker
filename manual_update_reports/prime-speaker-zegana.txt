@@ -1,59 +1,62 @@
 Recommended Updates
 -------------------
-Sol Ring - 75.51%
-Cultivate - 55.10%
-Kodama's Reach - 51.02%
-Temple of Mystery - 44.90%
+Sol Ring - 79.17%
+Cultivate - 54.17%
+Kodama's Reach - 47.92%
+Temple of Mystery - 45.83%
 
 
 Recommended Cuts
 -------------------
-Duggan, Private Detective - 38.78%
-Rampant Growth - 36.73%
-Mordenkainen - 36.73%
-Jolrael, Voice of Zhalfir - 36.73%
-Aeon Chronicler - 34.69%
-Momentous Fall - 32.65%
-Nature's Lore - 32.65%
-Chasm Skulker - 32.65%
-Tishana, Voice of Thunder - 32.65%
-Disciple of Freyalise // Garden of Freyalise - 32.26%
-Farseek - 30.61%
-Rapid Hybridization - 30.61%
-Lorescale Coatl - 28.57%
-Soramaro, First to Dream - 28.57%
-Three Visits - 28.57%
-Pongify - 28.57%
-Proft's Eidetic Memory - 26.83%
-Planar Genesis - 26.67%
-Spellbook - 26.53%
-Selvala, Heart of the Wilds - 26.53%
-Sakura-Tribe Elder - 26.53%
-Sea Gate Restoration // Sea Gate, Reborn - 24.49%
-Alrund, God of the Cosmos // Hakka, Whispering Raven - 24.49%
-Coiling Oracle - 24.49%
-Mana Drain - 24.49%
-Syr Elenora, the Discerning - 22.45%
-**Consecrated Sphinx - 18.37%
-Robobrain War Mind - 17.95%
-Kruphix, God of Horizons - 16.33%
-Glasspool Mimic // Glasspool Shore - 16.33%
-Last March of the Ents - 16.33%
-Nezahal, Primal Tide - 14.29%
-Sink into Stupor // Soporific Springs - 12.90%
-Sylvan Library - 12.24%
-Bane of Progress - 12.24%
-Bala Ged Recovery // Bala Ged Sanctuary - 12.24%
-Minas Tirith Garrison - 12.24%
-Bridgeworks Battle // Tanglespan Bridgeworks - 9.68%
-Library of Leng - 6.12%
-Flood of Tears - 6.12%
-Castle Garenbrig - Card not found
+Laboratory Maniac - 39.58%
+Growth Spiral - 39.58%
+Empyrial Plate - 39.58%
+Rampant Growth - 37.50%
+Duggan, Private Detective - 37.50%
+Mordenkainen - 35.42%
+Jolrael, Voice of Zhalfir - 35.42%
+Chasm Skulker - 33.33%
+Nature's Lore - 33.33%
+Aeon Chronicler - 33.33%
+Lorescale Coatl - 31.25%
+Disciple of Freyalise // Garden of Freyalise - 31.25%
+Farseek - 29.17%
+Momentous Fall - 29.17%
+Rapid Hybridization - 29.17%
+Three Visits - 29.17%
+Tishana, Voice of Thunder - 29.17%
+Sakura-Tribe Elder - 27.08%
+Selvala, Heart of the Wilds - 27.08%
+Mana Drain - 27.08%
+Pongify - 27.08%
+Proft's Eidetic Memory - 26.19%
+Planar Genesis - 25.81%
+Coiling Oracle - 25.00%
+Spellbook - 25.00%
+Soramaro, First to Dream - 25.00%
+Alrund, God of the Cosmos // Hakka, Whispering Raven - 22.92%
+Sea Gate Restoration // Sea Gate, Reborn - 20.83%
+Syr Elenora, the Discerning - 18.75%
+Kruphix, God of Horizons - 18.75%
+**Consecrated Sphinx - 18.75%
+Robobrain War Mind - 17.50%
+Twenty-Toed Toad - 14.81%
+Nezahal, Primal Tide - 14.58%
+Glasspool Mimic // Glasspool Shore - 14.58%
+Last March of the Ents - 14.58%
+Sylvan Library - 12.50%
+Minas Tirith Garrison - 12.50%
+Sink into Stupor // Soporific Springs - 12.50%
+Bala Ged Recovery // Bala Ged Sanctuary - 10.42%
+Bridgeworks Battle // Tanglespan Bridgeworks - 9.38%
+Library of Leng - 6.25%
+Flood of Tears - 6.25%
 Minamo, School at Water's Edge - Card not found
+Bane of Progress - Card not found
 Toothy, Imaginary Friend - Card not found
-Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
 Cold-Eyed Selkie - Card not found
-Drowner of Truth // Drowned Jungle - Card not found
-Castle Vantress - Card not found
-Twenty-Toed Toad - Card not found
+Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
 Triskaidekaphile - Card not found
+Drowner of Truth // Drowned Jungle - Card not found
+Castle Garenbrig - Card not found
+Castle Vantress - Card not found

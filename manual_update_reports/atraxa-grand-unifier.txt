@@ -1,43 +1,43 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.34%
-Reliquary Tower - 67.46%
-Thought Vessel - 50.20%
-Chromatic Lantern - 48.65%
-Fellwar Stone - 45.26%
-Cultivate - 43.57%
-Solemn Simulacrum - 43.37%
-Counterspell - 43.03%
+Sol Ring - 91.66%
+Reliquary Tower - 67.20%
+Thought Vessel - 49.41%
+Chromatic Lantern - 48.71%
+Fellwar Stone - 45.87%
+Cultivate - 43.50%
+Counterspell - 43.15%
+Solemn Simulacrum - 42.74%
 
 
 Recommended Cuts
 -------------------
-Path to Exile - 39.85%
-Aether Channeler - 39.11%
-Three Visits - 38.77%
-Deadeye Navigator - 37.82%
-Agent of Treachery - 34.30%
-Loran of the Third Path - 33.15%
-Restoration Angel - 32.54%
-Ertai Resurrected - 30.51%
-Guardian Project - 30.18%
-Bloom Tender - 27.94%
-Assassin's Trophy - 27.94%
-Delighted Halfling - 27.74%
-Another Round - 27.67%
-**Aura Shards - 27.06%
-Cloudblazer - 23.14%
-Dour Port-Mage - 22.87%
-Noble Hierarch - 22.73%
-Mana Drain - 22.46%
-Massacre Wurm - 21.52%
-Clifftop Lookout - 19.86%
-Preston, the Vanisher - 17.05%
-Witch Enchanter // Witch-Blessed Meadow - 15.30%
-Sheoldred // The True Scriptures - 15.22%
+Path to Exile - 39.82%
+Aether Channeler - 39.12%
+Three Visits - 38.78%
+Deadeye Navigator - 37.53%
+Agent of Treachery - 33.63%
+Loran of the Third Path - 32.87%
+Restoration Angel - 31.83%
+Ertai Resurrected - 29.88%
+Guardian Project - 29.33%
+Assassin's Trophy - 28.70%
+Bloom Tender - 28.14%
+Delighted Halfling - 28.01%
+Another Round - 27.17%
+**Aura Shards - 26.55%
+Mana Drain - 23.00%
+Noble Hierarch - 23.00%
+Cloudblazer - 22.65%
+Dour Port-Mage - 22.45%
+Massacre Wurm - 20.78%
+Clifftop Lookout - 19.54%
+Preston, the Vanisher - 16.33%
+Witch Enchanter // Witch-Blessed Meadow - 15.27%
+Sheoldred // The True Scriptures - 15.08%
 Forbidden Orchard - Card not found
-Glasspool Mimic // Glasspool Shore - Card not found
 Siege Rhino - Card not found
+Glasspool Mimic // Glasspool Shore - Card not found
 Alpha Deathclaw - Card not found
 Disciple of Freyalise // Garden of Freyalise - Card not found
 Boggart Trawler // Boggart Bog - Card not found
