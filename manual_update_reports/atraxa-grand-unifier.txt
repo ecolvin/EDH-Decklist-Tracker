@@ -1,44 +1,43 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.66%
-Reliquary Tower - 67.20%
-Thought Vessel - 49.41%
-Chromatic Lantern - 48.71%
-Fellwar Stone - 45.87%
-Cultivate - 43.50%
-Counterspell - 43.15%
-Solemn Simulacrum - 42.74%
+Sol Ring - 91.36%
+Reliquary Tower - 66.81%
+Thought Vessel - 49.32%
+Chromatic Lantern - 48.11%
+Fellwar Stone - 46.25%
+Counterspell - 42.76%
+Cultivate - 42.68%
+Solemn Simulacrum - 41.61%
 
 
 Recommended Cuts
 -------------------
-Path to Exile - 39.82%
-Aether Channeler - 39.12%
-Three Visits - 38.78%
-Deadeye Navigator - 37.53%
-Agent of Treachery - 33.63%
-Loran of the Third Path - 32.87%
-Restoration Angel - 31.83%
-Ertai Resurrected - 29.88%
-Guardian Project - 29.33%
-Assassin's Trophy - 28.70%
-Bloom Tender - 28.14%
-Delighted Halfling - 28.01%
-Another Round - 27.17%
-**Aura Shards - 26.55%
-Mana Drain - 23.00%
-Noble Hierarch - 23.00%
-Cloudblazer - 22.65%
-Dour Port-Mage - 22.45%
-Massacre Wurm - 20.78%
-Clifftop Lookout - 19.54%
-Preston, the Vanisher - 16.33%
-Witch Enchanter // Witch-Blessed Meadow - 15.27%
-Sheoldred // The True Scriptures - 15.08%
+Three Visits - 38.47%
+Aether Channeler - 38.04%
+Deadeye Navigator - 36.69%
+Agent of Treachery - 32.55%
+Restoration Angel - 31.98%
+Loran of the Third Path - 31.98%
+Ertai Resurrected - 28.98%
+Guardian Project - 28.91%
+Assassin's Trophy - 28.77%
+Delighted Halfling - 28.34%
+Bloom Tender - 28.27%
+Another Round - 27.02%
+**Aura Shards - 26.05%
+Noble Hierarch - 23.63%
+Mana Drain - 23.41%
+Cloudblazer - 22.20%
+Dour Port-Mage - 21.98%
+Massacre Wurm - 20.41%
+Clifftop Lookout - 19.15%
+Preston, the Vanisher - 16.20%
+Witch Enchanter // Witch-Blessed Meadow - 15.35%
+Sheoldred // The True Scriptures - 14.99%
+Alpha Deathclaw - 11.71%
 Forbidden Orchard - Card not found
 Siege Rhino - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
-Alpha Deathclaw - Card not found
 Disciple of Freyalise // Garden of Freyalise - Card not found
 Boggart Trawler // Boggart Bog - Card not found
 Hydroelectric Specimen // Hydroelectric Laboratory - Card not found

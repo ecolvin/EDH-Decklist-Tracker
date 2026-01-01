@@ -1,46 +1,46 @@
 Recommended Updates
 -------------------
-Sol Ring - 60.67%
-Arcane Signet - 41.17%
-Idyllic Tutor - 40.94%
-Winds of Rath - 40.68%
-Rancor - 40.16%
+Sol Ring - 60.60%
+Arcane Signet - 41.01%
+Idyllic Tutor - 40.85%
+Winds of Rath - 40.66%
+Rancor - 40.15%
 
 
 Recommended Cuts
 -------------------
-Archon of Sun's Grace - 39.57%
-Dryad of the Ilysian Grove - 39.25%
-Counterspell - 38.23%
-Inquisitive Glimmer - 37.79%
-Enchanted Evening - 36.69%
-Privileged Position - 36.22%
-Argothian Enchantress - 34.90%
-Kenrith's Transformation - 34.07%
-Grasp of Fate - 33.14%
-Entity Tracker - 31.33%
+Archon of Sun's Grace - 39.49%
+Dryad of the Ilysian Grove - 39.19%
+Counterspell - 38.16%
+Inquisitive Glimmer - 38.13%
+Enchanted Evening - 36.71%
+Privileged Position - 36.26%
+Argothian Enchantress - 35.12%
+Kenrith's Transformation - 33.79%
+Grasp of Fate - 33.13%
+Entity Tracker - 31.16%
 Mirari's Wake - 31.02%
-Path to Exile - 30.45%
-Starfield Mystic - 30.24%
-Calix, Guided by Fate - 28.79%
-Amphibian Downpour - 27.39%
-Mirrormade - 26.94%
-Song of the Dryads - 24.93%
-Hallowed Haunting - 24.60%
-Karmic Justice - 23.91%
-Mystic Remora - 22.93%
-Noble Hierarch - 22.26%
-Replenish - 20.69%
-Birds of Paradise - 20.59%
-Greater Auramancy - 20.05%
-Supreme Verdict - 19.35%
-Calix, Destiny's Hand - 18.21%
-Sylvan Library - 18.10%
-Starfield of Nyx - 17.25%
-Eaten by Piranhas - 16.48%
-Austere Command - 11.85%
-Mana Drain - 11.28%
-Bala Ged Recovery // Bala Ged Sanctuary - 6.98%
+Path to Exile - 30.64%
+Starfield Mystic - 30.42%
+Calix, Guided by Fate - 28.89%
+Amphibian Downpour - 27.22%
+Mirrormade - 26.95%
+Song of the Dryads - 24.78%
+Hallowed Haunting - 24.70%
+Karmic Justice - 23.66%
+Mystic Remora - 22.92%
+Noble Hierarch - 22.30%
+Replenish - 20.81%
+Birds of Paradise - 20.68%
+Greater Auramancy - 20.42%
+Supreme Verdict - 19.32%
+Calix, Destiny's Hand - 18.08%
+Sylvan Library - 18.08%
+Starfield of Nyx - 17.51%
+Eaten by Piranhas - 16.33%
+Austere Command - 11.73%
+Mana Drain - 11.36%
+Bala Ged Recovery // Bala Ged Sanctuary - 7.00%
 Horizon Canopy - Card not found
 Mystic Gate - Card not found
 Wooded Bastion - Card not found

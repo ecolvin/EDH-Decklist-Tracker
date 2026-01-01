@@ -1,44 +1,44 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 77.20%
-Sol Ring - 74.92%
-Cultivate - 53.09%
-Golgari Rot Farm - 47.52%
-Gruul Turf - 47.08%
-Strip Mine - 46.38%
-Icetill Explorer - 45.31%
+**Crop Rotation - 76.92%
+Sol Ring - 74.72%
+Cultivate - 52.84%
+Golgari Rot Farm - 48.06%
+Gruul Turf - 47.57%
+Strip Mine - 46.13%
+Icetill Explorer - 46.10%
 Zuran Orb - 44.60%
-Eternal Witness - 43.90%
-Cinder Glade - 43.21%
-Elvish Reclaimer - 40.67%
-Retreat to Hagra - 40.28%
+Eternal Witness - 43.93%
+Cinder Glade - 42.96%
+Elvish Reclaimer - 40.56%
+Retreat to Hagra - 40.41%
 
 
 Recommended Cuts
 -------------------
-Wrenn and Six - 38.89%
-World Shaper - 38.59%
-Toxic Deluge - 37.17%
-**Glacial Chasm - 36.28%
-Windgrace's Judgment - 34.55%
-Courser of Kruphix - 31.10%
-Squandered Resources - 29.18%
-Burgeoning - 28.93%
+Wrenn and Six - 38.42%
+World Shaper - 38.33%
+Toxic Deluge - 37.36%
+**Glacial Chasm - 36.36%
+Windgrace's Judgment - 34.49%
+Courser of Kruphix - 30.94%
+Squandered Resources - 29.06%
 Worldsoul's Rage - 28.89%
-Wayward Swordtooth - 28.84%
-Sylvan Safekeeper - 27.20%
-Putrefy - 26.56%
-Sylvan Library - 25.58%
-Walk-In Closet // Forgotten Cellar - 24.26%
-Entish Restoration - 23.91%
-Orcish Lumberjack - 21.33%
-Loot, Exuberant Explorer - 20.60%
-Nissa, Resurgent Animist - 20.24%
-Lumra, Bellow of the Woods - 18.98%
+Wayward Swordtooth - 28.68%
+Burgeoning - 28.65%
+Sylvan Safekeeper - 27.16%
+Putrefy - 26.48%
+Sylvan Library - 25.45%
+Walk-In Closet // Forgotten Cellar - 24.35%
+Entish Restoration - 23.70%
+Orcish Lumberjack - 21.44%
+Loot, Exuberant Explorer - 20.75%
+Nissa, Resurgent Animist - 19.88%
+Lumra, Bellow of the Woods - 19.04%
 Bala Ged Recovery // Bala Ged Sanctuary - 17.51%
-Deflecting Swat - 15.65%
-Deadly Rollick - 11.86%
-Fell the Profane // Fell Mire - 6.19%
+Deflecting Swat - 15.51%
+Deadly Rollick - 11.88%
+Fell the Profane // Fell Mire - 6.32%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found
 Agadeem's Awakening // Agadeem, the Undercrypt - Card not found
