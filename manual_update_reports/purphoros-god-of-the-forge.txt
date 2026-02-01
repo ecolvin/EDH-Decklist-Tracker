@@ -1,35 +1,35 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.40%
-Goblin Matron - 50.73%
-Battle Hymn - 41.69%
-Goblin Rally - 41.11%
+Sol Ring - 91.46%
+Goblin Matron - 50.32%
+Battle Hymn - 40.82%
+Goblin Rally - 40.35%
 
 
 Recommended Cuts
 -------------------
-Kiki-Jiki, Mirror Breaker - 39.50%
-Spawn-Gang Commander - 36.36%
+Kiki-Jiki, Mirror Breaker - 39.56%
+Spawn-Gang Commander - 35.92%
 Fire Diamond - 35.28%
-Redcap Gutter-Dweller - 35.13%
-Neheb, the Eternal - 34.55%
-Faithless Looting - 33.97%
-Birgi, God of Storytelling // Harnfel, Horn of Bounty - 29.59%
+Neheb, the Eternal - 34.97%
+Redcap Gutter-Dweller - 34.18%
+Faithless Looting - 32.75%
 Cursed Mirror - 29.59%
-Hanweir Garrison - 28.43%
-Goblin Rabblemaster - 27.26%
-Deflecting Swat - 26.09%
-Valakut Awakening // Valakut Stoneforge - 23.76%
-Searslicer Goblin - 23.44%
-Fellwar Stone - 22.16%
-Spiked Corridor // Torture Pit - 15.98%
-Demand Answers - 15.89%
-Goblin Negotiation - 11.94%
-Shatterskull Smashing // Shatterskull, the Hammer Pass - 8.31%
-Sundering Eruption // Volcanic Fissure - 7.21%
-Everflowing Chalice - 5.83%
-Ramunap Ruins - Card not found
-Barbarian Ring - Card not found
+Birgi, God of Storytelling // Harnfel, Horn of Bounty - 29.27%
+Hanweir Garrison - 28.48%
+Goblin Rabblemaster - 27.37%
+Deflecting Swat - 26.27%
+Searslicer Goblin - 25.90%
+Valakut Awakening // Valakut Stoneforge - 24.53%
+Fellwar Stone - 22.94%
+Demand Answers - 16.77%
+Spiked Corridor // Torture Pit - 16.22%
+Goblin Negotiation - 13.14%
+Shatterskull Smashing // Shatterskull, the Hammer Pass - 8.70%
+Sundering Eruption // Volcanic Fissure - 7.90%
+Everflowing Chalice - 5.85%
 Spikefield Hazard // Spikefield Cave - Card not found
 The Irencrag - Card not found
 Arch of Orazca - Card not found
+Ramunap Ruins - Card not found
+Barbarian Ring - Card not found

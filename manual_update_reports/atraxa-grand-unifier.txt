@@ -1,42 +1,41 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.36%
-Reliquary Tower - 66.81%
-Thought Vessel - 49.32%
-Chromatic Lantern - 48.11%
-Fellwar Stone - 46.25%
-Counterspell - 42.76%
-Cultivate - 42.68%
-Solemn Simulacrum - 41.61%
+Sol Ring - 91.59%
+Reliquary Tower - 65.81%
+Thought Vessel - 48.13%
+Chromatic Lantern - 47.66%
+Fellwar Stone - 46.42%
+Counterspell - 42.06%
+Cultivate - 41.36%
 
 
 Recommended Cuts
 -------------------
-Three Visits - 38.47%
-Aether Channeler - 38.04%
-Deadeye Navigator - 36.69%
-Agent of Treachery - 32.55%
-Restoration Angel - 31.98%
-Loran of the Third Path - 31.98%
-Ertai Resurrected - 28.98%
-Guardian Project - 28.91%
-Assassin's Trophy - 28.77%
-Delighted Halfling - 28.34%
+Three Visits - 38.24%
+Aether Channeler - 36.76%
+Deadeye Navigator - 36.29%
+Loran of the Third Path - 31.70%
+Agent of Treachery - 31.46%
+Restoration Angel - 30.30%
+Delighted Halfling - 29.83%
+Assassin's Trophy - 29.44%
+Guardian Project - 28.74%
 Bloom Tender - 28.27%
-Another Round - 27.02%
-**Aura Shards - 26.05%
-Noble Hierarch - 23.63%
-Mana Drain - 23.41%
-Cloudblazer - 22.20%
-Dour Port-Mage - 21.98%
-Massacre Wurm - 20.41%
-Clifftop Lookout - 19.15%
-Preston, the Vanisher - 16.20%
-Witch Enchanter // Witch-Blessed Meadow - 15.35%
-Sheoldred // The True Scriptures - 14.99%
-Alpha Deathclaw - 11.71%
+Ertai Resurrected - 28.27%
+Another Round - 25.54%
+**Aura Shards - 25.39%
+Mana Drain - 24.69%
+Noble Hierarch - 24.61%
+Dour Port-Mage - 21.49%
+Cloudblazer - 20.56%
+Massacre Wurm - 19.78%
+Clifftop Lookout - 18.58%
+Witch Enchanter // Witch-Blessed Meadow - 15.80%
+Preston, the Vanisher - 14.95%
+Sheoldred // The True Scriptures - 14.80%
+Siege Rhino - 11.76%
+Alpha Deathclaw - 11.60%
 Forbidden Orchard - Card not found
-Siege Rhino - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
 Disciple of Freyalise // Garden of Freyalise - Card not found
 Boggart Trawler // Boggart Bog - Card not found

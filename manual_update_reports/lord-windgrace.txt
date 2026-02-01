@@ -1,44 +1,42 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 76.92%
-Sol Ring - 74.72%
-Cultivate - 52.84%
-Golgari Rot Farm - 48.06%
-Gruul Turf - 47.57%
-Strip Mine - 46.13%
-Icetill Explorer - 46.10%
-Zuran Orb - 44.60%
-Eternal Witness - 43.93%
-Cinder Glade - 42.96%
-Elvish Reclaimer - 40.56%
-Retreat to Hagra - 40.41%
+**Crop Rotation - 76.30%
+Sol Ring - 74.78%
+Cultivate - 52.20%
+Golgari Rot Farm - 47.84%
+Gruul Turf - 47.28%
+Icetill Explorer - 46.27%
+Strip Mine - 46.19%
+Zuran Orb - 45.00%
+Eternal Witness - 43.18%
+Cinder Glade - 42.29%
 
 
 Recommended Cuts
 -------------------
-Wrenn and Six - 38.42%
-World Shaper - 38.33%
-Toxic Deluge - 37.36%
-**Glacial Chasm - 36.36%
-Windgrace's Judgment - 34.49%
-Courser of Kruphix - 30.94%
-Squandered Resources - 29.06%
-Worldsoul's Rage - 28.89%
-Wayward Swordtooth - 28.68%
-Burgeoning - 28.65%
-Sylvan Safekeeper - 27.16%
-Putrefy - 26.48%
-Sylvan Library - 25.45%
-Walk-In Closet // Forgotten Cellar - 24.35%
-Entish Restoration - 23.70%
-Orcish Lumberjack - 21.44%
-Loot, Exuberant Explorer - 20.75%
-Nissa, Resurgent Animist - 19.88%
-Lumra, Bellow of the Woods - 19.04%
-Bala Ged Recovery // Bala Ged Sanctuary - 17.51%
-Deflecting Swat - 15.51%
-Deadly Rollick - 11.88%
-Fell the Profane // Fell Mire - 6.32%
+Wrenn and Six - 38.36%
+World Shaper - 38.07%
+Toxic Deluge - 37.47%
+**Glacial Chasm - 36.74%
+Windgrace's Judgment - 34.00%
+Courser of Kruphix - 30.67%
+Worldsoul's Rage - 29.81%
+Squandered Resources - 29.25%
+Burgeoning - 28.52%
+Wayward Swordtooth - 27.67%
+Sylvan Safekeeper - 27.37%
+Putrefy - 26.91%
+Sylvan Library - 25.09%
+Walk-In Closet // Forgotten Cellar - 23.98%
+Entish Restoration - 23.77%
+Orcish Lumberjack - 21.79%
+Loot, Exuberant Explorer - 20.51%
+Nissa, Resurgent Animist - 20.11%
+Lumra, Bellow of the Woods - 18.96%
+Bala Ged Recovery // Bala Ged Sanctuary - 17.50%
+Deflecting Swat - 15.45%
+Deadly Rollick - 11.89%
+Fell the Profane // Fell Mire - 6.48%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found
 Agadeem's Awakening // Agadeem, the Undercrypt - Card not found
