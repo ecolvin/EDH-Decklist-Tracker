@@ -1,41 +1,41 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.48%
-Reliquary Tower - 65.90%
-Thought Vessel - 47.59%
-Chromatic Lantern - 47.12%
-Fellwar Stone - 45.94%
-Counterspell - 42.38%
-Cultivate - 40.65%
+Sol Ring - 91.27%
+Reliquary Tower - 65.96%
+Thought Vessel - 48.24%
+Chromatic Lantern - 47.18%
+Fellwar Stone - 45.71%
+Counterspell - 42.37%
 
 
 Recommended Cuts
 -------------------
-Aminatou, the Fateshifter - 39.78%
-Lae'zel's Acrobatics - 39.38%
-Three Visits - 37.73%
-Deadeye Navigator - 36.15%
-Aether Channeler - 35.91%
-Agent of Treachery - 30.94%
-Loran of the Third Path - 30.62%
-Restoration Angel - 30.15%
-Delighted Halfling - 29.52%
-Assassin's Trophy - 29.36%
-Bloom Tender - 28.57%
-Guardian Project - 28.41%
-Ertai Resurrected - 27.47%
-**Aura Shards - 25.34%
-Another Round - 25.06%
-Mana Drain - 24.86%
-Noble Hierarch - 24.55%
-Dour Port-Mage - 20.92%
-Massacre Wurm - 19.81%
-Cloudblazer - 19.34%
-Clifftop Lookout - 18.34%
-Witch Enchanter // Witch-Blessed Meadow - 15.68%
-Sheoldred // The True Scriptures - 14.44%
-Preston, the Vanisher - 14.21%
-Siege Rhino - 11.84%
+Charming Prince - 39.51%
+Aminatou, the Fateshifter - 39.18%
+Lae'zel's Acrobatics - 38.20%
+Three Visits - 37.88%
+Deadeye Navigator - 36.16%
+Aether Channeler - 35.02%
+Agent of Treachery - 30.37%
+Loran of the Third Path - 29.88%
+Restoration Angel - 29.39%
+Assassin's Trophy - 29.22%
+Delighted Halfling - 29.22%
+Bloom Tender - 29.14%
+Guardian Project - 28.16%
+Ertai Resurrected - 26.45%
+**Aura Shards - 25.47%
+Mana Drain - 24.98%
+Another Round - 24.73%
+Noble Hierarch - 24.41%
+Dour Port-Mage - 20.58%
+Massacre Wurm - 19.76%
+Clifftop Lookout - 18.50%
+Cloudblazer - 18.12%
+Witch Enchanter // Witch-Blessed Meadow - 15.55%
+Sheoldred // The True Scriptures - 13.96%
+Preston, the Vanisher - 13.63%
+Siege Rhino - 12.24%
 Forbidden Orchard - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
 Alpha Deathclaw - Card not found

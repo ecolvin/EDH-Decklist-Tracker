@@ -1,43 +1,43 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 75.87%
-Sol Ring - 74.71%
-Cultivate - 51.56%
-Golgari Rot Farm - 48.09%
-Gruul Turf - 47.22%
-Icetill Explorer - 47.14%
-Strip Mine - 46.13%
-Zuran Orb - 45.11%
-Eternal Witness - 42.59%
-Cinder Glade - 42.31%
-Retreat to Hagra - 40.42%
-Elvish Reclaimer - 40.18%
+**Crop Rotation - 76.04%
+Sol Ring - 74.73%
+Cultivate - 51.26%
+Golgari Rot Farm - 48.33%
+Gruul Turf - 47.32%
+Icetill Explorer - 47.07%
+Strip Mine - 46.53%
+Zuran Orb - 45.21%
+Cinder Glade - 42.10%
+Eternal Witness - 41.83%
+Retreat to Hagra - 40.52%
+Elvish Reclaimer - 40.03%
 
 
 Recommended Cuts
 -------------------
-Wrenn and Six - 38.67%
-World Shaper - 37.69%
-Toxic Deluge - 37.30%
-**Glacial Chasm - 36.85%
-Windgrace's Judgment - 33.80%
-Worldsoul's Rage - 29.98%
-Courser of Kruphix - 29.81%
-Squandered Resources - 29.04%
-Burgeoning - 28.27%
-Sylvan Safekeeper - 27.46%
-Putrefy - 27.32%
-Wayward Swordtooth - 27.25%
-Sylvan Library - 24.97%
-Walk-In Closet // Forgotten Cellar - 23.86%
-Entish Restoration - 23.19%
-Orcish Lumberjack - 21.82%
-Nissa, Resurgent Animist - 20.46%
-Loot, Exuberant Explorer - 19.73%
-Lumra, Bellow of the Woods - 19.44%
-Bala Ged Recovery // Bala Ged Sanctuary - 17.06%
-Deflecting Swat - 15.48%
-Deadly Rollick - 11.80%
+Wrenn and Six - 38.64%
+Toxic Deluge - 37.78%
+World Shaper - 37.66%
+**Glacial Chasm - 37.06%
+Windgrace's Judgment - 33.68%
+Worldsoul's Rage - 30.27%
+Courser of Kruphix - 29.59%
+Squandered Resources - 29.55%
+Burgeoning - 28.61%
+Sylvan Safekeeper - 28.09%
+Putrefy - 27.04%
+Wayward Swordtooth - 26.25%
+Sylvan Library - 25.08%
+Walk-In Closet // Forgotten Cellar - 23.61%
+Entish Restoration - 23.06%
+Orcish Lumberjack - 22.42%
+Lumra, Bellow of the Woods - 20.65%
+Nissa, Resurgent Animist - 20.54%
+Loot, Exuberant Explorer - 20.02%
+Bala Ged Recovery // Bala Ged Sanctuary - 17.09%
+Deflecting Swat - 15.17%
+Deadly Rollick - 11.87%
 Fell the Profane // Fell Mire - 6.23%
 Nurturing Peatland - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
