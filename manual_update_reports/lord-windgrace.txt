@@ -1,44 +1,43 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 76.04%
-Sol Ring - 74.73%
-Cultivate - 51.26%
-Golgari Rot Farm - 48.33%
-Gruul Turf - 47.32%
-Icetill Explorer - 47.07%
-Strip Mine - 46.53%
-Zuran Orb - 45.21%
-Cinder Glade - 42.10%
-Eternal Witness - 41.83%
-Retreat to Hagra - 40.52%
-Elvish Reclaimer - 40.03%
+**Crop Rotation - 75.82%
+Sol Ring - 74.64%
+Cultivate - 51.04%
+Golgari Rot Farm - 47.83%
+Gruul Turf - 46.61%
+Icetill Explorer - 46.37%
+Strip Mine - 45.75%
+Zuran Orb - 44.98%
+Cinder Glade - 42.06%
+Eternal Witness - 40.59%
+Retreat to Hagra - 40.55%
 
 
 Recommended Cuts
 -------------------
-Wrenn and Six - 38.64%
-Toxic Deluge - 37.78%
-World Shaper - 37.66%
-**Glacial Chasm - 37.06%
-Windgrace's Judgment - 33.68%
-Worldsoul's Rage - 30.27%
-Courser of Kruphix - 29.59%
-Squandered Resources - 29.55%
-Burgeoning - 28.61%
-Sylvan Safekeeper - 28.09%
-Putrefy - 27.04%
-Wayward Swordtooth - 26.25%
-Sylvan Library - 25.08%
-Walk-In Closet // Forgotten Cellar - 23.61%
-Entish Restoration - 23.06%
-Orcish Lumberjack - 22.42%
-Lumra, Bellow of the Woods - 20.65%
-Nissa, Resurgent Animist - 20.54%
-Loot, Exuberant Explorer - 20.02%
-Bala Ged Recovery // Bala Ged Sanctuary - 17.09%
-Deflecting Swat - 15.17%
-Deadly Rollick - 11.87%
-Fell the Profane // Fell Mire - 6.23%
+Wrenn and Six - 37.99%
+Toxic Deluge - 37.42%
+World Shaper - 36.94%
+**Glacial Chasm - 36.41%
+Windgrace's Judgment - 33.32%
+Worldsoul's Rage - 29.50%
+Squandered Resources - 29.18%
+Burgeoning - 28.89%
+Courser of Kruphix - 28.65%
+Sylvan Safekeeper - 28.28%
+Putrefy - 27.10%
+Wayward Swordtooth - 25.92%
+Sylvan Library - 24.54%
+Walk-In Closet // Forgotten Cellar - 23.33%
+Entish Restoration - 22.84%
+Orcish Lumberjack - 22.59%
+Lumra, Bellow of the Woods - 21.78%
+Nissa, Resurgent Animist - 20.60%
+Loot, Exuberant Explorer - 20.18%
+Bala Ged Recovery // Bala Ged Sanctuary - 16.94%
+Deflecting Swat - 15.08%
+Deadly Rollick - 11.66%
+Fell the Profane // Fell Mire - 6.29%
 Nurturing Peatland - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found

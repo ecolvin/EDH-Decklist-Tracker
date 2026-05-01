@@ -1,50 +1,50 @@
 Recommended Updates
 -------------------
-Sol Ring - 60.90%
-Arcane Signet - 41.71%
+Sol Ring - 61.00%
+Arcane Signet - 41.96%
 
 
 Recommended Cuts
 -------------------
-Imprisoned in the Moon - 39.94%
-Archon of Sun's Grace - 38.40%
-Counterspell - 38.14%
-Dryad of the Ilysian Grove - 38.11%
-Inquisitive Glimmer - 37.52%
-Enchanted Evening - 36.46%
-Privileged Position - 35.23%
-Argothian Enchantress - 34.65%
-Kenrith's Transformation - 33.11%
-Grasp of Fate - 32.88%
-Path to Exile - 30.68%
-Mirari's Wake - 30.13%
-Entity Tracker - 29.97%
-Starfield Mystic - 29.71%
-Calix, Guided by Fate - 28.30%
+Imprisoned in the Moon - 39.96%
+Archon of Sun's Grace - 38.49%
+Counterspell - 38.19%
+Dryad of the Ilysian Grove - 38.04%
+Inquisitive Glimmer - 37.62%
+Enchanted Evening - 36.29%
+Privileged Position - 35.20%
+Argothian Enchantress - 34.44%
+Kenrith's Transformation - 33.25%
+Grasp of Fate - 32.80%
+Path to Exile - 30.67%
+Starfield Mystic - 30.04%
+Mirari's Wake - 30.01%
+Entity Tracker - 29.99%
+Calix, Guided by Fate - 28.37%
 Amphibian Downpour - 27.26%
 Mirrormade - 26.62%
-Hallowed Haunting - 24.16%
-Song of the Dryads - 23.90%
+Hallowed Haunting - 24.21%
+Song of the Dryads - 23.60%
 Karmic Justice - 23.18%
-Noble Hierarch - 22.52%
-Mystic Remora - 22.46%
-Replenish - 20.95%
-Birds of Paradise - 20.95%
-Greater Auramancy - 20.50%
-Supreme Verdict - 19.40%
-Calix, Destiny's Hand - 17.47%
-Starfield of Nyx - 17.13%
-Sylvan Library - 17.10%
-Eaten by Piranhas - 15.51%
-Austere Command - 11.21%
-Mana Drain - 11.07%
-Bala Ged Recovery // Bala Ged Sanctuary - 6.77%
+Noble Hierarch - 22.59%
+Mystic Remora - 22.38%
+Birds of Paradise - 20.97%
+Replenish - 20.80%
+Greater Auramancy - 20.20%
+Supreme Verdict - 19.31%
+Calix, Destiny's Hand - 17.16%
+Starfield of Nyx - 16.95%
+Sylvan Library - 16.81%
+Eaten by Piranhas - 15.34%
+Austere Command - 11.26%
+Mana Drain - 10.96%
+Bala Ged Recovery // Bala Ged Sanctuary - 6.66%
+Horizon Canopy - Card not found
 Mystic Gate - Card not found
 Wooded Bastion - Card not found
+Waterlogged Grove - Card not found
 Sea Gate Restoration // Sea Gate, Reborn - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
-Waterlogged Grove - Card not found
-Horizon Canopy - Card not found
 Idolized - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found

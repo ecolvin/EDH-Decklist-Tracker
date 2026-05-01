@@ -1,66 +1,66 @@
 Recommended Updates
 -------------------
-Sol Ring - 80.65%
-Cultivate - 48.39%
-Temple of Mystery - 48.39%
-Kodama's Reach - 45.16%
-Vineglimmer Snarl - 45.16%
+Sol Ring - 81.25%
+Temple of Mystery - 46.88%
+Cultivate - 43.75%
+Vineglimmer Snarl - 43.75%
+Kodama's Reach - 40.63%
 
 
 Recommended Cuts
 -------------------
-Laboratory Maniac - 38.71%
-Garruk's Uprising - 38.71%
-Return of the Wildspeaker - 38.71%
-Sage of Ancient Lore // Werewolf of Ancient Hunger - 35.48%
-Rampant Growth - 32.26%
-Maro - 32.26%
-Empyrial Plate - 32.26%
-Chasm Skulker - 32.26%
-Duggan, Private Detective - 32.26%
-Planar Genesis - 32.14%
-Multani, Maro-Sorcerer - 29.03%
-Masumaro, First to Live - 29.03%
-Farseek - 29.03%
-Aeon Chronicler - 29.03%
-Nature's Lore - 29.03%
-Mana Drain - 29.03%
-Disciple of Freyalise // Garden of Freyalise - 27.59%
-Three Visits - 25.81%
-Coiling Oracle - 25.81%
-Sakura-Tribe Elder - 25.81%
-Lorescale Coatl - 22.58%
-Momentous Fall - 22.58%
-Mordenkainen - 22.58%
-Proft's Eidetic Memory - 22.58%
-Syr Elenora, the Discerning - 19.35%
-Spellbook - 19.35%
-Jolrael, Voice of Zhalfir - 19.35%
-Rapid Hybridization - 19.35%
-Pongify - 19.35%
-Alrund, God of the Cosmos // Hakka, Whispering Raven - 16.13%
-Selvala, Heart of the Wilds - 16.13%
-Robobrain War Mind - 16.13%
-Sink into Stupor // Soporific Springs - 13.79%
-Kruphix, God of Horizons - 12.90%
-**Consecrated Sphinx - 12.90%
-Soramaro, First to Dream - 12.90%
-Bala Ged Recovery // Bala Ged Sanctuary - 12.90%
-Minas Tirith Garrison - 12.90%
-Hydroelectric Specimen // Hydroelectric Laboratory - 11.11%
-Bridgeworks Battle // Tanglespan Bridgeworks - 10.34%
-Sylvan Library - 9.68%
-Sea Gate Restoration // Sea Gate, Reborn - 9.68%
-Last March of the Ents - 9.68%
-Castle Garenbrig - Card not found
+Return of the Wildspeaker - 37.50%
+Garruk's Uprising - 37.50%
+Laboratory Maniac - 34.38%
+Maro - 34.38%
+Planar Genesis - 33.33%
+Disciple of Freyalise // Garden of Freyalise - 32.26%
+Chasm Skulker - 31.25%
+Sage of Ancient Lore // Werewolf of Ancient Hunger - 31.25%
+Masumaro, First to Live - 31.25%
+Empyrial Plate - 31.25%
+Duggan, Private Detective - 31.25%
+Farseek - 28.13%
+Nature's Lore - 28.13%
+Rampant Growth - 28.13%
+Aeon Chronicler - 28.13%
+Multani, Maro-Sorcerer - 28.13%
+Three Visits - 28.13%
+Proft's Eidetic Memory - 28.13%
+Coiling Oracle - 25.00%
+Mana Drain - 25.00%
+Sakura-Tribe Elder - 21.88%
+Lorescale Coatl - 21.88%
+Spellbook - 21.88%
+Rapid Hybridization - 21.88%
+Pongify - 21.88%
+Mordenkainen - 21.88%
+Syr Elenora, the Discerning - 18.75%
+Selvala, Heart of the Wilds - 18.75%
+Momentous Fall - 18.75%
+Bala Ged Recovery // Bala Ged Sanctuary - 18.75%
+Alrund, God of the Cosmos // Hakka, Whispering Raven - 18.75%
+Jolrael, Voice of Zhalfir - 15.63%
+Robobrain War Mind - 15.63%
+Sink into Stupor // Soporific Springs - 12.90%
+Bridgeworks Battle // Tanglespan Bridgeworks - 12.90%
+Kruphix, God of Horizons - 12.50%
+Sea Gate Restoration // Sea Gate, Reborn - 12.50%
+Glasspool Mimic // Glasspool Shore - 12.50%
+Minas Tirith Garrison - 12.50%
+Hydroelectric Specimen // Hydroelectric Laboratory - 10.34%
+Sylvan Library - 9.38%
+**Consecrated Sphinx - 9.38%
+Last March of the Ents - 6.25%
+Library of Leng - Card not found
+Flood of Tears - Card not found
 Bane of Progress - Card not found
 Toothy, Imaginary Friend - Card not found
-Library of Leng - Card not found
-Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
-Nezahal, Primal Tide - Card not found
-Flood of Tears - Card not found
-Littjara Mirrorlake - Card not found
-Tishana, Voice of Thunder - Card not found
 Cold-Eyed Selkie - Card not found
-Twenty-Toed Toad - Card not found
+Soramaro, First to Dream - Card not found
+Nezahal, Primal Tide - Card not found
+Tishana, Voice of Thunder - Card not found
+Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
 Triskaidekaphile - Card not found
+Twenty-Toed Toad - Card not found
+Castle Garenbrig - Card not found
