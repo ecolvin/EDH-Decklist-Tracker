@@ -1,42 +1,41 @@
 Recommended Updates
 -------------------
-Sol Ring - 93.34%
-Rune-Scarred Demon - 70.28%
-Boros Charm - 43.84%
+Sol Ring - 93.33%
+Rune-Scarred Demon - 70.38%
+Boros Charm - 43.82%
 
 
 Recommended Cuts
 -------------------
-Talisman of Indulgence - 39.88%
-Hellkite Tyrant - 39.00%
-Ruinous Ultimatum - 36.76%
-Archfiend of Depravity - 35.66%
-Fellwar Stone - 35.45%
-Angel of Serenity - 35.15%
-Ancient Copper Dragon - 34.03%
-Valgavoth, Terror Eater - 33.97%
-Dragon Tempest - 33.88%
-Archfiend of Despair - 32.73%
-Flawless Maneuver - 31.42%
-Deflecting Swat - 30.99%
-Bruna, the Fading Light - 25.86%
-Bloodthirster - 25.30%
-Aurelia, the Law Above - 25.29%
-Ancient Brass Dragon - 24.86%
-Bloodletter of Aclazotz - 24.05%
-Gisela, the Broken Blade - 22.79%
-Bloodgift Demon - 22.78%
-Blast-Furnace Hellkite - 20.31%
-Aegis Angel - 19.66%
-Deadly Rollick - 19.62%
-Herald of Eternal Dawn - 18.50%
-Platinum Angel - 16.83%
-Demonlord Belzenlok - 15.13%
-Mind Stone - 11.39%
-Lavaspur Boots - 10.84%
-Painful Truths - 10.65%
-Liliana's Contract - 8.79%
-Unholy Annex // Ritual Chamber - 7.08%
+Hellkite Tyrant - 38.98%
+Ruinous Ultimatum - 36.60%
+Archfiend of Depravity - 35.96%
+Fellwar Stone - 35.76%
+Angel of Serenity - 34.76%
+Ancient Copper Dragon - 34.28%
+Valgavoth, Terror Eater - 34.14%
+Dragon Tempest - 34.05%
+Archfiend of Despair - 32.79%
+Flawless Maneuver - 31.58%
+Deflecting Swat - 31.21%
+Bruna, the Fading Light - 25.80%
+Aurelia, the Law Above - 25.20%
+Bloodthirster - 25.11%
+Ancient Brass Dragon - 24.81%
+Bloodletter of Aclazotz - 23.98%
+Gisela, the Broken Blade - 22.73%
+Bloodgift Demon - 22.62%
+Blast-Furnace Hellkite - 19.94%
+Deadly Rollick - 19.91%
+Aegis Angel - 19.60%
+Herald of Eternal Dawn - 18.40%
+Platinum Angel - 16.62%
+Demonlord Belzenlok - 14.99%
+Mind Stone - 11.36%
+Lavaspur Boots - 10.56%
+Painful Truths - 10.50%
+Liliana's Contract - 8.63%
+Unholy Annex // Ritual Chamber - 7.00%
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Spikefield Hazard // Spikefield Cave - Card not found
 Hagra Mauling // Hagra Broodpit - Card not found

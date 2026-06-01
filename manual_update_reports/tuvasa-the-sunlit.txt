@@ -1,50 +1,50 @@
 Recommended Updates
 -------------------
-Sol Ring - 61.00%
-Arcane Signet - 41.96%
+Sol Ring - 60.92%
+Arcane Signet - 41.91%
 
 
 Recommended Cuts
 -------------------
-Imprisoned in the Moon - 39.96%
-Archon of Sun's Grace - 38.49%
-Counterspell - 38.19%
-Dryad of the Ilysian Grove - 38.04%
-Inquisitive Glimmer - 37.62%
-Enchanted Evening - 36.29%
-Privileged Position - 35.20%
-Argothian Enchantress - 34.44%
-Kenrith's Transformation - 33.25%
-Grasp of Fate - 32.80%
-Path to Exile - 30.67%
-Starfield Mystic - 30.04%
-Mirari's Wake - 30.01%
-Entity Tracker - 29.99%
-Calix, Guided by Fate - 28.37%
-Amphibian Downpour - 27.26%
-Mirrormade - 26.62%
-Hallowed Haunting - 24.21%
-Song of the Dryads - 23.60%
-Karmic Justice - 23.18%
-Noble Hierarch - 22.59%
-Mystic Remora - 22.38%
-Birds of Paradise - 20.97%
-Replenish - 20.80%
-Greater Auramancy - 20.20%
-Supreme Verdict - 19.31%
-Calix, Destiny's Hand - 17.16%
-Starfield of Nyx - 16.95%
-Sylvan Library - 16.81%
-Eaten by Piranhas - 15.34%
-Austere Command - 11.26%
-Mana Drain - 10.96%
-Bala Ged Recovery // Bala Ged Sanctuary - 6.66%
-Horizon Canopy - Card not found
+Imprisoned in the Moon - 39.66%
+Archon of Sun's Grace - 38.28%
+Counterspell - 38.01%
+Dryad of the Ilysian Grove - 37.92%
+Inquisitive Glimmer - 37.73%
+Enchanted Evening - 36.10%
+Privileged Position - 35.31%
+Argothian Enchantress - 34.24%
+Kenrith's Transformation - 32.91%
+Grasp of Fate - 32.68%
+Path to Exile - 30.59%
+Starfield Mystic - 29.96%
+Mirari's Wake - 29.75%
+Entity Tracker - 29.72%
+Calix, Guided by Fate - 28.34%
+Amphibian Downpour - 27.16%
+Mirrormade - 26.58%
+Hallowed Haunting - 24.06%
+Song of the Dryads - 23.46%
+Karmic Justice - 23.10%
+Noble Hierarch - 22.60%
+Mystic Remora - 22.20%
+Birds of Paradise - 20.92%
+Replenish - 20.62%
+Greater Auramancy - 20.12%
+Supreme Verdict - 19.14%
+Calix, Destiny's Hand - 16.84%
+Sylvan Library - 16.73%
+Starfield of Nyx - 16.71%
+Eaten by Piranhas - 15.19%
+Austere Command - 11.06%
+Mana Drain - 10.72%
+Bala Ged Recovery // Bala Ged Sanctuary - 6.78%
 Mystic Gate - Card not found
 Wooded Bastion - Card not found
-Waterlogged Grove - Card not found
 Sea Gate Restoration // Sea Gate, Reborn - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
+Waterlogged Grove - Card not found
+Horizon Canopy - Card not found
 Idolized - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Bridgeworks Battle // Tanglespan Bridgeworks - Card not found

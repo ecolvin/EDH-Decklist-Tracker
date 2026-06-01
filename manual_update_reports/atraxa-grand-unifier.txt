@@ -1,47 +1,47 @@
 Recommended Updates
 -------------------
-Sol Ring - 90.90%
-Reliquary Tower - 65.29%
-Thought Vessel - 46.84%
-Chromatic Lantern - 46.17%
-Fellwar Stone - 45.75%
-Counterspell - 41.53%
+Sol Ring - 91.28%
+Reliquary Tower - 64.42%
+Fellwar Stone - 46.80%
+Thought Vessel - 45.77%
+Chromatic Lantern - 44.39%
+Counterspell - 41.02%
 
 
 Recommended Cuts
 -------------------
-Mulldrifter - 39.76%
-Ravenous Chupacabra - 39.26%
-Virtue of Knowledge // Vantress Visions - 39.09%
-Aminatou, the Fateshifter - 38.50%
-Charming Prince - 38.25%
-Three Visits - 37.41%
-Lae'zel's Acrobatics - 37.32%
-Deadeye Navigator - 36.65%
-Aether Channeler - 34.46%
-Agent of Treachery - 29.99%
-Delighted Halfling - 29.91%
-Assassin's Trophy - 29.40%
-Loran of the Third Path - 28.98%
-Bloom Tender - 28.90%
-Restoration Angel - 28.64%
-Guardian Project - 27.30%
-Ertai Resurrected - 26.20%
-Noble Hierarch - 25.02%
-Another Round - 25.02%
-**Aura Shards - 24.77%
-Mana Drain - 24.43%
-Dour Port-Mage - 20.10%
-Massacre Wurm - 19.38%
-Clifftop Lookout - 17.81%
-Cloudblazer - 17.27%
-Witch Enchanter // Witch-Blessed Meadow - 15.67%
-Sheoldred // The True Scriptures - 13.73%
-Siege Rhino - 13.06%
-Preston, the Vanisher - 12.47%
-Alpha Deathclaw - 10.70%
+Mulldrifter - 38.17%
+Ravenous Chupacabra - 38.08%
+Aminatou, the Fateshifter - 37.74%
+Three Visits - 37.65%
+Virtue of Knowledge // Vantress Visions - 37.22%
+Deadeye Navigator - 36.18%
+Lae'zel's Acrobatics - 36.18%
+Charming Prince - 35.66%
+Aether Channeler - 32.73%
+Delighted Halfling - 31.17%
+Assassin's Trophy - 30.74%
+Bloom Tender - 30.05%
+Agent of Treachery - 29.53%
+Restoration Angel - 27.89%
+Loran of the Third Path - 27.89%
+Noble Hierarch - 26.17%
+Guardian Project - 25.82%
+Mana Drain - 25.82%
+Ertai Resurrected - 24.61%
+**Aura Shards - 24.18%
+Another Round - 23.83%
+Dour Port-Mage - 20.94%
+Massacre Wurm - 19.26%
+Clifftop Lookout - 17.82%
+Cloudblazer - 15.80%
+Witch Enchanter // Witch-Blessed Meadow - 15.80%
+Sheoldred // The True Scriptures - 13.90%
+Siege Rhino - 13.13%
+Preston, the Vanisher - 11.31%
 Forbidden Orchard - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
+Alpha Deathclaw - Card not found
 Disciple of Freyalise // Garden of Freyalise - Card not found
 Boggart Trawler // Boggart Bog - Card not found
 Hydroelectric Specimen // Hydroelectric Laboratory - Card not found

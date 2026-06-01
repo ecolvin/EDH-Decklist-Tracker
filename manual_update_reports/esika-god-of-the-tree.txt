@@ -1,48 +1,48 @@
 Recommended Updates
 -------------------
-Sol Ring - 83.79%
-Island - 75.98%
-Forest - 75.27%
-Plains - 73.90%
-Swamp - 70.02%
-Mountain - 66.45%
-Karn's Bastion - 53.16%
-The World Tree - 49.28%
-Swords to Plowshares - 48.99%
-**Narset, Parter of Veils - 47.38%
-Brokers Ascendancy - 43.50%
-**Teferi's Protection - 41.90%
+Sol Ring - 83.30%
+Island - 76.07%
+Forest - 75.50%
+Plains - 74.15%
+Swamp - 70.25%
+Mountain - 66.28%
+Karn's Bastion - 52.66%
+Swords to Plowshares - 49.01%
+The World Tree - 48.56%
+**Narset, Parter of Veils - 47.41%
+Brokers Ascendancy - 42.93%
+**Teferi's Protection - 42.03%
 
 
 Recommended Cuts
 -------------------
-Teferi, Time Raveler - 39.57%
-Flux Channeler - 39.33%
-Three Visits - 39.09%
-Kaya the Inexorable - 39.09%
-Supreme Verdict - 38.20%
-Chandra, Legacy of Fire - 37.72%
-Ripples of Potential - 37.25%
-Mutational Advantage - 26.82%
-Jace, the Mind Sculptor - 26.22%
-Narset Transcendent - 25.80%
-Blasphemous Act - 24.73%
-Arena Rector - 24.37%
-Innkeeper's Talent - 23.91%
-Eerie Ultimatum - 20.68%
-Deploy the Gatewatch - 18.65%
-Toxic Deluge - 17.28%
-Mox Amber - 13.17%
-Aetheric Amplifier - 11.63%
-Blasphemous Edict - 11.25%
-Vanquish the Horde - 10.97%
-Ruinous Ultimatum - 9.06%
-Staff of Compleation - 7.03%
-Austere Command - 6.85%
-Kamahl's Druidic Vow - 5.24%
+Teferi, Time Raveler - 39.35%
+Three Visits - 39.22%
+Flux Channeler - 38.84%
+Supreme Verdict - 38.58%
+Kaya the Inexorable - 37.81%
+Ripples of Potential - 37.04%
+Chandra, Legacy of Fire - 36.79%
+Mutational Advantage - 26.23%
+Jace, the Mind Sculptor - 25.91%
+Narset Transcendent - 25.91%
+Blasphemous Act - 24.76%
+Arena Rector - 24.25%
+Innkeeper's Talent - 23.65%
+Eerie Ultimatum - 20.22%
+Deploy the Gatewatch - 18.36%
+Toxic Deluge - 17.53%
+Mox Amber - 13.12%
+Aetheric Amplifier - 12.34%
+Vanquish the Horde - 11.20%
+Blasphemous Edict - 10.85%
+Ruinous Ultimatum - 8.96%
+Austere Command - 7.36%
+Staff of Compleation - 7.10%
+Kamahl's Druidic Vow - 5.31%
 Fires of Invention - Card not found
-Forbidden Orchard - Card not found
 Genesis Ultimatum - Card not found
+Forbidden Orchard - Card not found
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Ondu Inversion // Ondu Skyruins - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
