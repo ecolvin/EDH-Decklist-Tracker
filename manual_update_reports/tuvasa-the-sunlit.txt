@@ -1,43 +1,43 @@
 Recommended Updates
 -------------------
-Sol Ring - 60.92%
-Arcane Signet - 41.91%
+Sol Ring - 60.85%
+Arcane Signet - 41.99%
 
 
 Recommended Cuts
 -------------------
-Imprisoned in the Moon - 39.66%
+Imprisoned in the Moon - 39.51%
 Archon of Sun's Grace - 38.28%
+Inquisitive Glimmer - 38.17%
+Dryad of the Ilysian Grove - 38.03%
 Counterspell - 38.01%
-Dryad of the Ilysian Grove - 37.92%
-Inquisitive Glimmer - 37.73%
-Enchanted Evening - 36.10%
-Privileged Position - 35.31%
-Argothian Enchantress - 34.24%
-Kenrith's Transformation - 32.91%
-Grasp of Fate - 32.68%
-Path to Exile - 30.59%
-Starfield Mystic - 29.96%
-Mirari's Wake - 29.75%
-Entity Tracker - 29.72%
-Calix, Guided by Fate - 28.34%
-Amphibian Downpour - 27.16%
-Mirrormade - 26.58%
-Hallowed Haunting - 24.06%
-Song of the Dryads - 23.46%
-Karmic Justice - 23.10%
-Noble Hierarch - 22.60%
-Mystic Remora - 22.20%
-Birds of Paradise - 20.92%
-Replenish - 20.62%
-Greater Auramancy - 20.12%
-Supreme Verdict - 19.14%
-Calix, Destiny's Hand - 16.84%
-Sylvan Library - 16.73%
-Starfield of Nyx - 16.71%
-Eaten by Piranhas - 15.19%
-Austere Command - 11.06%
-Mana Drain - 10.72%
+Enchanted Evening - 36.04%
+Privileged Position - 35.32%
+Argothian Enchantress - 34.28%
+Kenrith's Transformation - 32.75%
+Grasp of Fate - 32.75%
+Path to Exile - 30.81%
+Starfield Mystic - 30.09%
+Mirari's Wake - 30.02%
+Entity Tracker - 29.65%
+Calix, Guided by Fate - 28.49%
+Amphibian Downpour - 27.15%
+Mirrormade - 26.45%
+Hallowed Haunting - 24.14%
+Song of the Dryads - 23.41%
+Karmic Justice - 23.16%
+Noble Hierarch - 22.54%
+Mystic Remora - 22.06%
+Birds of Paradise - 20.96%
+Replenish - 20.83%
+Greater Auramancy - 20.28%
+Supreme Verdict - 19.10%
+Starfield of Nyx - 16.72%
+Calix, Destiny's Hand - 16.68%
+Sylvan Library - 16.64%
+Eaten by Piranhas - 14.92%
+Austere Command - 11.03%
+Mana Drain - 10.70%
 Bala Ged Recovery // Bala Ged Sanctuary - 6.78%
 Mystic Gate - Card not found
 Wooded Bastion - Card not found

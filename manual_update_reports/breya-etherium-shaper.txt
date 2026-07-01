@@ -1,49 +1,48 @@
 Recommended Updates
 -------------------
-Sol Ring - 86.14%
-Etherium Sculptor - 51.49%
-Chromatic Lantern - 48.84%
-Darksteel Citadel - 40.59%
+Sol Ring - 86.94%
+Etherium Sculptor - 53.26%
+Chromatic Lantern - 48.11%
 
 
 Recommended Cuts
 -------------------
-Pia Nalaar - 39.93%
-Mechanized Production - 39.93%
-Sword of the Meek - 35.31%
-Etherium Spinner - 34.65%
-Fellwar Stone - 34.32%
-Launch Mishap - 33.66%
-Ornithopter - 33.00%
-Counterspell - 32.01%
-Liberator, Urza's Battlethopter - 31.68%
-Losheel, Clockwork Scholar - 30.69%
-Detective's Satchel - 30.69%
-Sweep the Skies - 29.37%
-Leonardo da Vinci - 28.38%
-Anointed Procession - 26.07%
-Storm the Vault // Vault of Catlacan - 22.44%
-Talisman of Progress - 22.11%
-Pia Nalaar, Consul of Revival - 21.78%
-Talisman of Creativity - 21.78%
-Dovin, Grand Arbiter - 21.45%
-Harried Dronesmith - 20.79%
-Talisman of Dominance - 20.46%
-Mondrak, Glory Dominus - 18.48%
-Talisman of Conviction - 17.82%
-Warleader's Call - 16.50%
-Mox Opal - 14.52%
-Talisman of Hierarchy - 12.87%
-Intrude on the Mind - 12.21%
-Talisman of Indulgence - 10.89%
-Mana Drain - 8.25%
-Perplexing Test - 7.92%
-Banner of Kinship - 7.66%
-Shared Animosity - 7.26%
-Kindred Discovery - 5.28%
+Fellwar Stone - 37.80%
+Maverick Thopterist - 35.40%
+Pia Nalaar - 34.71%
+Counterspell - 34.02%
+Sword of the Meek - 34.02%
+Launch Mishap - 30.93%
+Etherium Spinner - 30.24%
+Ornithopter - 30.24%
+Losheel, Clockwork Scholar - 29.90%
+Liberator, Urza's Battlethopter - 29.90%
+Leonardo da Vinci - 27.49%
+Detective's Satchel - 26.12%
+Sweep the Skies - 25.77%
+Anointed Procession - 24.74%
+Talisman of Creativity - 24.05%
+Talisman of Progress - 23.71%
+Storm the Vault // Vault of Catlacan - 22.68%
+Talisman of Dominance - 22.34%
+Talisman of Conviction - 19.24%
+Dovin, Grand Arbiter - 18.90%
+Pia Nalaar, Consul of Revival - 18.90%
+Harried Dronesmith - 18.21%
+Mondrak, Glory Dominus - 17.87%
+Mox Opal - 14.43%
+Warleader's Call - 14.43%
+Talisman of Hierarchy - 13.75%
+Talisman of Indulgence - 11.34%
+Intrude on the Mind - 10.31%
+Mana Drain - 8.93%
+Banner of Kinship - 7.76%
+Perplexing Test - 7.56%
+Shared Animosity - 6.87%
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Flawless Maneuver - Card not found
+Kindred Discovery - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Sink into Stupor // Soporific Springs - Card not found
 Fell the Profane // Fell Mire - Card not found

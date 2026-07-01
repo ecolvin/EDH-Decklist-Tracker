@@ -1,44 +1,46 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.28%
-Reliquary Tower - 64.42%
-Fellwar Stone - 46.80%
-Thought Vessel - 45.77%
-Chromatic Lantern - 44.39%
-Counterspell - 41.02%
+Sol Ring - 91.55%
+Reliquary Tower - 64.44%
+Fellwar Stone - 45.95%
+Thought Vessel - 45.42%
+Chromatic Lantern - 42.87%
+Counterspell - 40.58%
 
 
 Recommended Cuts
 -------------------
-Mulldrifter - 38.17%
-Ravenous Chupacabra - 38.08%
-Aminatou, the Fateshifter - 37.74%
-Three Visits - 37.65%
-Virtue of Knowledge // Vantress Visions - 37.22%
-Deadeye Navigator - 36.18%
-Lae'zel's Acrobatics - 36.18%
-Charming Prince - 35.66%
-Aether Channeler - 32.73%
-Delighted Halfling - 31.17%
-Assassin's Trophy - 30.74%
-Bloom Tender - 30.05%
-Agent of Treachery - 29.53%
-Restoration Angel - 27.89%
-Loran of the Third Path - 27.89%
-Noble Hierarch - 26.17%
-Guardian Project - 25.82%
-Mana Drain - 25.82%
-Ertai Resurrected - 24.61%
-**Aura Shards - 24.18%
-Another Round - 23.83%
-Dour Port-Mage - 20.94%
-Massacre Wurm - 19.26%
-Clifftop Lookout - 17.82%
-Cloudblazer - 15.80%
-Witch Enchanter // Witch-Blessed Meadow - 15.80%
-Sheoldred // The True Scriptures - 13.90%
-Siege Rhino - 13.13%
-Preston, the Vanisher - 11.31%
+Yorion, Sky Nomad - 39.44%
+Felidar Guardian - 38.91%
+Three Visits - 37.85%
+Ravenous Chupacabra - 36.53%
+Mulldrifter - 36.36%
+Aminatou, the Fateshifter - 35.83%
+Deadeye Navigator - 35.48%
+Virtue of Knowledge // Vantress Visions - 35.48%
+Charming Prince - 34.51%
+Lae'zel's Acrobatics - 34.51%
+Aether Channeler - 31.51%
+Bloom Tender - 31.34%
+Delighted Halfling - 31.25%
+Assassin's Trophy - 31.07%
+Agent of Treachery - 28.35%
+Loran of the Third Path - 28.08%
+Restoration Angel - 26.94%
+Noble Hierarch - 26.85%
+Mana Drain - 25.88%
+Guardian Project - 24.47%
+Ertai Resurrected - 24.03%
+**Aura Shards - 23.42%
+Another Round - 22.62%
+Dour Port-Mage - 20.45%
+Massacre Wurm - 18.84%
+Clifftop Lookout - 17.72%
+Witch Enchanter // Witch-Blessed Meadow - 16.02%
+Cloudblazer - 15.32%
+Sheoldred // The True Scriptures - 14.17%
+Siege Rhino - 12.50%
+Preston, the Vanisher - 10.65%
 Forbidden Orchard - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
 Alpha Deathclaw - Card not found
