@@ -1,58 +1,57 @@
 Recommended Updates
 -------------------
-Sol Ring - 93.12%
-Sandsteppe Citadel - 72.04%
-Canopy Vista - 68.20%
-Cultivate - 61.99%
-Rogue's Passage - 59.28%
-Revive the Shire - 57.85%
-Fortified Village - 56.65%
-Necroblossom Snarl - 55.97%
-Shineshadow Snarl - 55.70%
-Elanor Gardner - 53.37%
-Prosperous Innkeeper - 50.90%
-Essence Warden - 50.34%
-Mortify - 50.17%
-Gwaihir, Greatest of the Eagles - 48.17%
-Scattered Groves - 47.67%
-Access Tunnel - 46.68%
-Many Partings - 45.29%
-Field-Tested Frying Pan - 44.66%
-Go for the Throat - 44.45%
-Lobelia, Defender of Bag End - 43.56%
-Night's Whisper - 42.95%
-Well of Lost Dreams - 42.79%
-Scoured Barrens - 41.00%
-Fell the Mighty - 40.95%
+Sol Ring - 92.93%
+Sandsteppe Citadel - 72.07%
+Canopy Vista - 68.50%
+Cultivate - 61.25%
+Rogue's Passage - 58.95%
+Revive the Shire - 57.52%
+Fortified Village - 56.99%
+Necroblossom Snarl - 56.31%
+Shineshadow Snarl - 55.81%
+Elanor Gardner - 52.76%
+Essence Warden - 51.06%
+Prosperous Innkeeper - 50.63%
+Mortify - 50.26%
+Gwaihir, Greatest of the Eagles - 47.96%
+Scattered Groves - 47.81%
+Access Tunnel - 46.90%
+Many Partings - 45.46%
+Go for the Throat - 44.53%
+Field-Tested Frying Pan - 44.05%
+Night's Whisper - 43.39%
+Lobelia, Defender of Bag End - 43.21%
+Well of Lost Dreams - 42.21%
+Fell the Mighty - 41.26%
+Scoured Barrens - 41.03%
 Graypelt Refuge - 40.66%
-Motivated Pony - 40.20%
-Chromatic Lantern - 40.01%
 
 
 Recommended Cuts
 -------------------
-Vito, Thorn of the Dusk Rose - 35.32%
-Heroic Intervention - 34.18%
-Experimental Confectioner - 29.81%
-Gyome, Master Chef - 27.68%
-Assassin's Trophy - 26.76%
-Idol of Oblivion - 25.62%
-Kambal, Profiteering Mayor - 24.36%
-Sorin of House Markov // Sorin, Ravenous Neonate - 24.19%
-Ygra, Eater of All - 23.72%
-Nature's Lore - 20.93%
-Mortality Spear - 18.51%
-Delney, Streetwise Lookout - 17.48%
-Parallel Lives - 17.29%
-Mondrak, Glory Dominus - 15.99%
-Midnight Snack - 15.28%
-Three Visits - 14.47%
-Ocelot Pride - 14.28%
-Anointed Procession - 12.33%
-Flawless Maneuver - 9.61%
+Jaheira, Friend of the Forest - 39.78%
+Vito, Thorn of the Dusk Rose - 34.86%
+Heroic Intervention - 33.68%
+Experimental Confectioner - 29.16%
+Gyome, Master Chef - 26.88%
+Assassin's Trophy - 26.84%
+Idol of Oblivion - 25.24%
+Ygra, Eater of All - 24.86%
+Kambal, Profiteering Mayor - 22.90%
+Sorin of House Markov // Sorin, Ravenous Neonate - 22.88%
+Nature's Lore - 20.35%
+Mortality Spear - 17.49%
+Delney, Streetwise Lookout - 16.83%
+Parallel Lives - 16.74%
+Mondrak, Glory Dominus - 15.33%
+Midnight Snack - 14.95%
+Three Visits - 14.12%
+Ocelot Pride - 13.15%
+Anointed Procession - 11.94%
+Flawless Maneuver - 9.32%
 Deadly Dispute - 8.69%
-Deadly Rollick - 8.50%
-Revitalizing Repast // Old-Growth Grove - 5.68%
+Deadly Rollick - 8.66%
+Revitalizing Repast // Old-Growth Grove - 5.59%
 Nurturing Peatland - Card not found
 Silent Clearing - Card not found
 Bala Ged Recovery // Bala Ged Sanctuary - Card not found

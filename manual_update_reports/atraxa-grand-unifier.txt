@@ -1,48 +1,50 @@
 Recommended Updates
 -------------------
 Sol Ring - 91.55%
-Reliquary Tower - 64.44%
-Fellwar Stone - 45.95%
-Thought Vessel - 45.42%
-Chromatic Lantern - 42.87%
-Counterspell - 40.58%
+Reliquary Tower - 63.94%
+Fellwar Stone - 46.14%
+Thought Vessel - 45.32%
+Counterspell - 41.96%
+Chromatic Lantern - 41.24%
 
 
 Recommended Cuts
 -------------------
-Yorion, Sky Nomad - 39.44%
-Felidar Guardian - 38.91%
-Three Visits - 37.85%
-Ravenous Chupacabra - 36.53%
-Mulldrifter - 36.36%
-Aminatou, the Fateshifter - 35.83%
-Deadeye Navigator - 35.48%
-Virtue of Knowledge // Vantress Visions - 35.48%
-Charming Prince - 34.51%
-Lae'zel's Acrobatics - 34.51%
-Aether Channeler - 31.51%
+Brago, King Eternal - 39.33%
+Emiel the Blessed - 38.69%
+Three Visits - 37.87%
+Felidar Guardian - 37.33%
+Yorion, Sky Nomad - 37.33%
+Ravenous Chupacabra - 34.51%
+Aminatou, the Fateshifter - 34.51%
+Mulldrifter - 34.33%
+Deadeye Navigator - 34.24%
+Virtue of Knowledge // Vantress Visions - 33.06%
+Charming Prince - 32.79%
+Lae'zel's Acrobatics - 32.79%
 Bloom Tender - 31.34%
-Delighted Halfling - 31.25%
-Assassin's Trophy - 31.07%
-Agent of Treachery - 28.35%
-Loran of the Third Path - 28.08%
-Restoration Angel - 26.94%
-Noble Hierarch - 26.85%
-Mana Drain - 25.88%
-Guardian Project - 24.47%
-Ertai Resurrected - 24.03%
-**Aura Shards - 23.42%
-Another Round - 22.62%
-Dour Port-Mage - 20.45%
-Massacre Wurm - 18.84%
-Clifftop Lookout - 17.72%
-Witch Enchanter // Witch-Blessed Meadow - 16.02%
-Cloudblazer - 15.32%
-Sheoldred // The True Scriptures - 14.17%
-Siege Rhino - 12.50%
-Preston, the Vanisher - 10.65%
+Delighted Halfling - 30.70%
+Aether Channeler - 30.52%
+Assassin's Trophy - 30.25%
+Loran of the Third Path - 27.34%
+Agent of Treachery - 27.25%
+Noble Hierarch - 26.79%
+Restoration Angel - 26.25%
+Mana Drain - 25.89%
+Guardian Project - 23.61%
+Ertai Resurrected - 23.16%
+**Aura Shards - 22.34%
+Another Round - 20.71%
+Dour Port-Mage - 20.71%
+Massacre Wurm - 18.26%
+Clifftop Lookout - 17.89%
+Witch Enchanter // Witch-Blessed Meadow - 15.89%
+Cloudblazer - 13.99%
+Sheoldred // The True Scriptures - 13.44%
+Siege Rhino - 12.62%
 Forbidden Orchard - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
+Preston, the Vanisher - Card not found
 Alpha Deathclaw - Card not found
 Disciple of Freyalise // Garden of Freyalise - Card not found
 Boggart Trawler // Boggart Bog - Card not found

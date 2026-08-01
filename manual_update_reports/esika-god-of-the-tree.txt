@@ -1,45 +1,45 @@
 Recommended Updates
 -------------------
-Sol Ring - 83.58%
-Island - 75.33%
-Forest - 74.84%
-Plains - 73.53%
-Swamp - 69.65%
-Mountain - 65.56%
-Karn's Bastion - 52.46%
-Swords to Plowshares - 48.79%
-The World Tree - 48.37%
-**Narset, Parter of Veils - 47.40%
-Brokers Ascendancy - 43.17%
-**Teferi's Protection - 41.23%
+Sol Ring - 83.27%
+Island - 76.43%
+Forest - 76.35%
+Plains - 74.98%
+Swamp - 70.87%
+Mountain - 66.69%
+Karn's Bastion - 51.94%
+Swords to Plowshares - 47.98%
+The World Tree - 47.68%
+**Narset, Parter of Veils - 46.24%
+Brokers Ascendancy - 42.59%
+**Teferi's Protection - 41.22%
 
 
 Recommended Cuts
 -------------------
-Three Visits - 39.92%
-Lae'zel, Vlaakith's Champion - 39.64%
-Teferi, Time Raveler - 39.22%
-Kaya the Inexorable - 39.15%
-Supreme Verdict - 38.88%
-Flux Channeler - 38.25%
-Ripples of Potential - 37.49%
-Chandra, Legacy of Fire - 36.04%
-Jace, the Mind Sculptor - 26.54%
-Mutational Advantage - 26.33%
-Narset Transcendent - 25.57%
-Blasphemous Act - 25.09%
-Arena Rector - 23.84%
-Innkeeper's Talent - 23.21%
-Eerie Ultimatum - 20.24%
-Deploy the Gatewatch - 17.67%
-Toxic Deluge - 17.60%
-Mox Amber - 13.58%
-Aetheric Amplifier - 12.70%
-Vanquish the Horde - 11.30%
-Blasphemous Edict - 10.77%
-Ruinous Ultimatum - 9.01%
-Staff of Compleation - 7.42%
-Austere Command - 7.28%
+Evolution Sage - 39.47%
+Kaya the Inexorable - 39.16%
+Lae'zel, Vlaakith's Champion - 39.09%
+Teferi, Time Raveler - 38.94%
+Supreme Verdict - 38.94%
+Flux Channeler - 37.34%
+Ripples of Potential - 37.11%
+Chandra, Legacy of Fire - 35.67%
+Jace, the Mind Sculptor - 26.84%
+Mutational Advantage - 26.31%
+Narset Transcendent - 25.93%
+Innkeeper's Talent - 24.79%
+Blasphemous Act - 24.64%
+Arena Rector - 23.88%
+Eerie Ultimatum - 20.46%
+Toxic Deluge - 17.95%
+Deploy the Gatewatch - 17.19%
+Mox Amber - 13.38%
+Aetheric Amplifier - 12.48%
+Vanquish the Horde - 11.56%
+Blasphemous Edict - 10.50%
+Ruinous Ultimatum - 8.97%
+Staff of Compleation - 7.38%
+Austere Command - 6.92%
 Fires of Invention - Card not found
 Genesis Ultimatum - Card not found
 Forbidden Orchard - Card not found

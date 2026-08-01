@@ -1,54 +1,56 @@
 Recommended Updates
 -------------------
-Sol Ring - 79.31%
-Vineglimmer Snarl - 44.83%
-Temple of Mystery - 41.38%
+Sol Ring - 83.33%
+Vineglimmer Snarl - 43.33%
+Temple of Mystery - 40.00%
 
 
 Recommended Cuts
 -------------------
-Counterspell - 37.93%
-Arcane Denial - 37.93%
-Farseek - 34.48%
-Growth Spiral - 34.48%
-Garruk's Uprising - 31.03%
-Multani, Maro-Sorcerer - 31.03%
-Sturmgeist - 31.03%
-Overbeing of Myth - 31.03%
-Chasm Skulker - 31.03%
-Return of the Wildspeaker - 31.03%
-Proft's Eidetic Memory - 31.03%
-Laboratory Maniac - 27.59%
-Maro - 27.59%
-Empyrial Plate - 27.59%
-Bala Ged Recovery // Bala Ged Sanctuary - 27.59%
-Three Visits - 27.59%
-Nature's Lore - 27.59%
-Masumaro, First to Live - 24.14%
-Pongify - 24.14%
-Sage of Ancient Lore // Werewolf of Ancient Hunger - 20.69%
-Rampant Growth - 20.69%
-Aeon Chronicler - 20.69%
-Selvala, Heart of the Wilds - 20.69%
-Duggan, Private Detective - 20.69%
-Rapid Hybridization - 20.69%
-Mana Drain - 20.69%
-Lorescale Coatl - 17.24%
-Sea Gate Restoration // Sea Gate, Reborn - 17.24%
-Glasspool Mimic // Glasspool Shore - 17.24%
-Coiling Oracle - 17.24%
-Sakura-Tribe Elder - 17.24%
-Sink into Stupor // Soporific Springs - 17.24%
-Syr Elenora, the Discerning - 13.79%
-Sylvan Library - 13.79%
-Spellbook - 13.79%
-Momentous Fall - 13.79%
-Alrund, God of the Cosmos // Hakka, Whispering Raven - 13.79%
-Mordenkainen - 13.79%
-Jolrael, Voice of Zhalfir - 13.79%
-Bridgeworks Battle // Tanglespan Bridgeworks - 13.79%
-**Consecrated Sphinx - 6.90%
-Last March of the Ents - 6.90%
+Disciple of Freyalise // Garden of Freyalise - 40.00%
+Planar Genesis - 40.00%
+Counterspell - 36.67%
+Arcane Denial - 36.67%
+Garruk's Uprising - 33.33%
+Farseek - 33.33%
+Growth Spiral - 33.33%
+Multani, Maro-Sorcerer - 30.00%
+Sturmgeist - 30.00%
+Overbeing of Myth - 30.00%
+Chasm Skulker - 30.00%
+Return of the Wildspeaker - 30.00%
+Proft's Eidetic Memory - 30.00%
+Laboratory Maniac - 26.67%
+Maro - 26.67%
+Empyrial Plate - 26.67%
+Nature's Lore - 26.67%
+Masumaro, First to Live - 23.33%
+Bala Ged Recovery // Bala Ged Sanctuary - 23.33%
+Three Visits - 23.33%
+Mana Drain - 23.33%
+Pongify - 23.33%
+Sage of Ancient Lore // Werewolf of Ancient Hunger - 20.00%
+Rampant Growth - 20.00%
+Aeon Chronicler - 20.00%
+Selvala, Heart of the Wilds - 20.00%
+Duggan, Private Detective - 20.00%
+Rapid Hybridization - 20.00%
+Lorescale Coatl - 16.67%
+Sea Gate Restoration // Sea Gate, Reborn - 16.67%
+Glasspool Mimic // Glasspool Shore - 16.67%
+Coiling Oracle - 16.67%
+Sakura-Tribe Elder - 16.67%
+Sink into Stupor // Soporific Springs - 16.67%
+Syr Elenora, the Discerning - 13.33%
+Spellbook - 13.33%
+Momentous Fall - 13.33%
+Alrund, God of the Cosmos // Hakka, Whispering Raven - 13.33%
+Mordenkainen - 13.33%
+Jolrael, Voice of Zhalfir - 13.33%
+Bridgeworks Battle // Tanglespan Bridgeworks - 13.33%
+Sylvan Library - 10.00%
+**Consecrated Sphinx - 10.00%
+Last March of the Ents - 6.67%
 Castle Garenbrig - Card not found
 Minamo, School at Water's Edge - Card not found
 Bane of Progress - Card not found
