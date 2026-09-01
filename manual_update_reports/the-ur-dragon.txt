@@ -1,40 +1,40 @@
 Recommended Updates
 -------------------
-Sol Ring - 92.23%
-Mountain - 85.18%
-Forest - 82.88%
-Island - 76.03%
-Swamp - 74.38%
-Plains - 74.15%
-Chromatic Lantern - 60.98%
-Maelstrom of the Spirit Dragon - 57.03%
-Call the Spirit Dragons - 54.49%
-Dracogenesis - 53.33%
-Ureni of the Unwritten - 52.32%
-Cultivate - 44.77%
-Breeding Pool - 40.15%
+Sol Ring - 91.62%
+Mountain - 85.55%
+Forest - 83.06%
+Island - 76.23%
+Swamp - 74.66%
+Plains - 74.29%
+Chromatic Lantern - 60.38%
+Maelstrom of the Spirit Dragon - 56.98%
+Call the Spirit Dragons - 54.03%
+Dracogenesis - 53.51%
+Ureni of the Unwritten - 51.79%
+Cultivate - 44.53%
+Breeding Pool - 40.34%
 
 
 Recommended Cuts
 -------------------
-Three Visits - 39.55%
-Scion of the Ur-Dragon - 39.11%
-Birds of Paradise - 38.99%
-Ramos, Dragon Engine - 38.97%
-Scalelord Reckoner - 38.50%
-Twinflame Tyrant - 37.91%
-Scion of Draco - 37.64%
-Roaming Throne - 36.13%
-Hellkite Tyrant - 28.46%
-Path to Exile - 26.77%
-The Great Henge - 26.20%
-Kindred Discovery - 25.74%
-Mana Drain - 21.49%
-Assassin's Trophy - 19.32%
-Up the Beanstalk - 18.17%
-Cavern-Hoard Dragon - 16.69%
-Smuggler's Surprise - 14.10%
-Anguished Unmaking - 13.80%
+Three Visits - 39.18%
+Birds of Paradise - 38.84%
+Scalelord Reckoner - 38.71%
+Scion of the Ur-Dragon - 38.63%
+Ramos, Dragon Engine - 38.49%
+Twinflame Tyrant - 37.98%
+Scion of Draco - 37.29%
+Roaming Throne - 35.51%
+Hellkite Tyrant - 28.32%
+Path to Exile - 26.90%
+The Great Henge - 26.17%
+Kindred Discovery - 25.76%
+Mana Drain - 21.08%
+Assassin's Trophy - 19.52%
+Up the Beanstalk - 18.01%
+Cavern-Hoard Dragon - 16.35%
+Anguished Unmaking - 13.68%
+Smuggler's Surprise - 13.41%
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Turntimber Symbiosis // Turntimber, Serpentine Wood - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found

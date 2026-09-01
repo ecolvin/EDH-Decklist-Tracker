@@ -1,31 +1,32 @@
 Recommended Updates
 -------------------
-Sol Ring - 90.45%
-Goblin Matron - 50.74%
+Sol Ring - 90.25%
+Goblin Matron - 51.02%
 
 
 Recommended Cuts
 -------------------
-Tilonalli's Summoner - 37.15%
-Faithless Looting - 33.55%
-Neheb, the Eternal - 33.55%
-Fire Diamond - 32.70%
-Spawn-Gang Commander - 31.42%
-Redcap Gutter-Dweller - 28.45%
-Deflecting Swat - 28.03%
-Searslicer Goblin - 26.50%
-Cursed Mirror - 25.48%
-Goblin Rabblemaster - 25.05%
-Hanweir Garrison - 24.63%
-Birgi, God of Storytelling // Harnfel, Horn of Bounty - 24.63%
-Valakut Awakening // Valakut Stoneforge - 24.20%
-Fellwar Stone - 22.72%
-Demand Answers - 14.86%
-Spiked Corridor // Torture Pit - 14.25%
-Goblin Negotiation - 12.68%
-Shatterskull Smashing // Shatterskull, the Hammer Pass - 9.34%
-Sundering Eruption // Volcanic Fissure - 8.07%
-Everflowing Chalice - 6.37%
+Firecat Blitz - 39.23%
+Tilonalli's Summoner - 34.92%
+Neheb, the Eternal - 34.24%
+Faithless Looting - 33.33%
+Fire Diamond - 31.75%
+Spawn-Gang Commander - 30.16%
+Deflecting Swat - 29.48%
+Redcap Gutter-Dweller - 27.44%
+Searslicer Goblin - 27.07%
+Cursed Mirror - 24.94%
+Valakut Awakening // Valakut Stoneforge - 24.72%
+Goblin Rabblemaster - 24.72%
+Hanweir Garrison - 24.26%
+Birgi, God of Storytelling // Harnfel, Horn of Bounty - 23.36%
+Fellwar Stone - 21.54%
+Spiked Corridor // Torture Pit - 14.59%
+Demand Answers - 14.51%
+Goblin Negotiation - 12.85%
+Shatterskull Smashing // Shatterskull, the Hammer Pass - 9.98%
+Sundering Eruption // Volcanic Fissure - 8.62%
+Everflowing Chalice - 6.12%
 Spikefield Hazard // Spikefield Cave - Card not found
 The Irencrag - Card not found
 Arch of Orazca - Card not found

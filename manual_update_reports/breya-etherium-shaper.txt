@@ -1,51 +1,54 @@
 Recommended Updates
 -------------------
-Sol Ring - 88.30%
-Etherium Sculptor - 54.61%
-Chromatic Lantern - 47.16%
-Jhoira, Weatherlight Captain - 41.13%
+Sol Ring - 87.32%
+Etherium Sculptor - 54.35%
+Chromatic Lantern - 47.46%
+Jhoira, Weatherlight Captain - 42.75%
+Darksteel Citadel - 40.58%
 
 
 Recommended Cuts
 -------------------
-Mechanized Production - 39.01%
-Pia and Kiran Nalaar - 38.65%
-Fellwar Stone - 37.23%
-Sword of the Meek - 35.11%
-Counterspell - 33.33%
-Maverick Thopterist - 32.62%
-Pia Nalaar - 32.27%
-Etherium Spinner - 29.79%
-Losheel, Clockwork Scholar - 29.43%
-Ornithopter - 29.43%
-Liberator, Urza's Battlethopter - 29.08%
-Launch Mishap - 28.72%
-Leonardo da Vinci - 26.60%
-Anointed Procession - 25.89%
-Sweep the Skies - 24.82%
-Talisman of Progress - 24.47%
-Talisman of Creativity - 24.47%
-Detective's Satchel - 24.11%
-Storm the Vault // Vault of Catlacan - 21.99%
-Talisman of Dominance - 21.63%
-Talisman of Conviction - 18.44%
-Mondrak, Glory Dominus - 17.38%
-Harried Dronesmith - 17.38%
-Dovin, Grand Arbiter - 17.02%
-Pia Nalaar, Consul of Revival - 17.02%
-Mox Opal - 15.25%
-Warleader's Call - 13.48%
-Talisman of Hierarchy - 12.77%
-Talisman of Indulgence - 10.99%
-Mana Drain - 10.28%
-Intrude on the Mind - 9.93%
-Banner of Kinship - 7.44%
-Perplexing Test - 6.03%
+Organic Extinction - 39.86%
+Mechanized Production - 39.86%
+Saheeli, Filigree Master - 39.13%
+Fellwar Stone - 38.41%
+Pia and Kiran Nalaar - 36.59%
+Sword of the Meek - 36.23%
+Counterspell - 34.06%
+Maverick Thopterist - 31.88%
+Pia Nalaar - 29.71%
+Etherium Spinner - 29.35%
+Ornithopter - 29.35%
+Liberator, Urza's Battlethopter - 28.99%
+Losheel, Clockwork Scholar - 28.62%
+Launch Mishap - 28.62%
+Anointed Procession - 25.36%
+Talisman of Progress - 25.36%
+Leonardo da Vinci - 25.00%
+Sweep the Skies - 24.64%
+Talisman of Creativity - 24.64%
+Talisman of Dominance - 22.83%
+Detective's Satchel - 22.46%
+Storm the Vault // Vault of Catlacan - 20.65%
+Talisman of Conviction - 18.48%
+Mondrak, Glory Dominus - 16.67%
+Harried Dronesmith - 15.94%
+Dovin, Grand Arbiter - 15.58%
+Pia Nalaar, Consul of Revival - 15.22%
+Mox Opal - 14.49%
+Talisman of Hierarchy - 13.77%
+Warleader's Call - 12.68%
+Talisman of Indulgence - 11.96%
+Mana Drain - 9.78%
+Intrude on the Mind - 9.42%
+Banner of Kinship - 7.17%
+Shared Animosity - 5.07%
 Emeria's Call // Emeria, Shattered Skyclave - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
+Perplexing Test - Card not found
 Flawless Maneuver - Card not found
 Kindred Discovery - Card not found
-Shared Animosity - Card not found
 Witch Enchanter // Witch-Blessed Meadow - Card not found
 Sink into Stupor // Soporific Springs - Card not found
 Fell the Profane // Fell Mire - Card not found

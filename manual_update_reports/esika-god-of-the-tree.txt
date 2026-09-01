@@ -1,45 +1,46 @@
 Recommended Updates
 -------------------
-Sol Ring - 83.27%
-Island - 76.43%
-Forest - 76.35%
-Plains - 74.98%
-Swamp - 70.87%
-Mountain - 66.69%
-Karn's Bastion - 51.94%
-Swords to Plowshares - 47.98%
-The World Tree - 47.68%
-**Narset, Parter of Veils - 46.24%
-Brokers Ascendancy - 42.59%
-**Teferi's Protection - 41.22%
+Sol Ring - 82.43%
+Island - 76.23%
+Forest - 76.23%
+Plains - 74.39%
+Swamp - 70.46%
+Mountain - 66.36%
+Karn's Bastion - 51.21%
+Swords to Plowshares - 48.28%
+The World Tree - 47.20%
+**Narset, Parter of Veils - 44.77%
+Brokers Ascendancy - 41.26%
+**Teferi's Protection - 40.50%
 
 
 Recommended Cuts
 -------------------
-Evolution Sage - 39.47%
-Kaya the Inexorable - 39.16%
-Lae'zel, Vlaakith's Champion - 39.09%
-Teferi, Time Raveler - 38.94%
-Supreme Verdict - 38.94%
-Flux Channeler - 37.34%
-Ripples of Potential - 37.11%
-Chandra, Legacy of Fire - 35.67%
-Jace, the Mind Sculptor - 26.84%
-Mutational Advantage - 26.31%
-Narset Transcendent - 25.93%
-Innkeeper's Talent - 24.79%
-Blasphemous Act - 24.64%
-Arena Rector - 23.88%
-Eerie Ultimatum - 20.46%
-Toxic Deluge - 17.95%
-Deploy the Gatewatch - 17.19%
-Mox Amber - 13.38%
-Aetheric Amplifier - 12.48%
-Vanquish the Horde - 11.56%
-Blasphemous Edict - 10.50%
-Ruinous Ultimatum - 8.97%
-Staff of Compleation - 7.38%
-Austere Command - 6.92%
+Primevals' Glorious Rebirth - 39.92%
+Kaya the Inexorable - 39.83%
+Evolution Sage - 38.83%
+Supreme Verdict - 38.83%
+Teferi, Time Raveler - 38.58%
+Lae'zel, Vlaakith's Champion - 37.99%
+Ripples of Potential - 36.32%
+Flux Channeler - 35.98%
+Chandra, Legacy of Fire - 34.48%
+Jace, the Mind Sculptor - 27.20%
+Narset Transcendent - 25.86%
+Innkeeper's Talent - 25.36%
+Blasphemous Act - 25.19%
+Mutational Advantage - 25.02%
+Arena Rector - 24.02%
+Eerie Ultimatum - 20.33%
+Toxic Deluge - 17.91%
+Deploy the Gatewatch - 16.32%
+Mox Amber - 13.47%
+Aetheric Amplifier - 13.19%
+Vanquish the Horde - 11.55%
+Blasphemous Edict - 10.56%
+Ruinous Ultimatum - 9.12%
+Austere Command - 7.20%
+Staff of Compleation - 6.86%
 Fires of Invention - Card not found
 Genesis Ultimatum - Card not found
 Forbidden Orchard - Card not found

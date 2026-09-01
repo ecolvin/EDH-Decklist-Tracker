@@ -1,44 +1,45 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 75.43%
-Sol Ring - 74.12%
-Cultivate - 49.20%
-Icetill Explorer - 47.24%
-Golgari Rot Farm - 46.90%
-Zuran Orb - 46.05%
-Strip Mine - 46.00%
-Gruul Turf - 44.94%
-Cinder Glade - 42.39%
-Retreat to Hagra - 41.74%
+**Crop Rotation - 74.69%
+Sol Ring - 73.81%
+Cultivate - 48.88%
+Icetill Explorer - 46.63%
+Golgari Rot Farm - 46.53%
+Zuran Orb - 46.36%
+Strip Mine - 46.09%
+Gruul Turf - 44.72%
+Retreat to Hagra - 42.04%
+Cinder Glade - 41.44%
 
 
 Recommended Cuts
 -------------------
-Three Visits - 39.59%
-Tireless Tracker - 38.84%
-Wrenn and Six - 37.44%
-Toxic Deluge - 37.24%
-**Glacial Chasm - 36.09%
-World Shaper - 35.54%
-Windgrace's Judgment - 31.48%
-Worldsoul's Rage - 29.63%
-Squandered Resources - 29.58%
-Sylvan Safekeeper - 29.28%
-Burgeoning - 27.28%
-Lumra, Bellow of the Woods - 27.18%
-Putrefy - 26.58%
-Courser of Kruphix - 25.13%
-Orcish Lumberjack - 24.62%
-Wayward Swordtooth - 23.07%
-Sylvan Library - 23.02%
-Walk-In Closet // Forgotten Cellar - 22.75%
-Nissa, Resurgent Animist - 20.97%
-Entish Restoration - 20.77%
-Loot, Exuberant Explorer - 19.80%
-Bala Ged Recovery // Bala Ged Sanctuary - 15.47%
-Deflecting Swat - 14.81%
-Deadly Rollick - 11.81%
-Fell the Profane // Fell Mire - 6.96%
+Realms Uncharted - 39.97%
+Three Visits - 39.15%
+Tireless Tracker - 38.00%
+Wrenn and Six - 36.85%
+Toxic Deluge - 35.87%
+**Glacial Chasm - 35.54%
+World Shaper - 35.48%
+Windgrace's Judgment - 31.06%
+Sylvan Safekeeper - 29.47%
+Squandered Resources - 29.20%
+Worldsoul's Rage - 29.14%
+Lumra, Bellow of the Woods - 28.27%
+Burgeoning - 27.72%
+Putrefy - 26.41%
+Courser of Kruphix - 24.88%
+Orcish Lumberjack - 24.71%
+Wayward Swordtooth - 22.80%
+Sylvan Library - 22.69%
+Walk-In Closet // Forgotten Cellar - 22.37%
+Nissa, Resurgent Animist - 20.94%
+Entish Restoration - 20.28%
+Loot, Exuberant Explorer - 19.41%
+Bala Ged Recovery // Bala Ged Sanctuary - 14.93%
+Deflecting Swat - 14.76%
+Deadly Rollick - 11.70%
+Fell the Profane // Fell Mire - 6.72%
 Nurturing Peatland - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found

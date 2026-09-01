@@ -1,47 +1,47 @@
 Recommended Updates
 -------------------
-Sol Ring - 91.55%
-Reliquary Tower - 63.94%
-Fellwar Stone - 46.14%
-Thought Vessel - 45.32%
-Counterspell - 41.96%
-Chromatic Lantern - 41.24%
+Sol Ring - 91.51%
+Reliquary Tower - 62.86%
+Fellwar Stone - 46.35%
+Thought Vessel - 44.89%
+Counterspell - 41.88%
+Chromatic Lantern - 40.97%
 
 
 Recommended Cuts
 -------------------
-Brago, King Eternal - 39.33%
-Emiel the Blessed - 38.69%
-Three Visits - 37.87%
-Felidar Guardian - 37.33%
-Yorion, Sky Nomad - 37.33%
-Ravenous Chupacabra - 34.51%
-Aminatou, the Fateshifter - 34.51%
-Mulldrifter - 34.33%
-Deadeye Navigator - 34.24%
-Virtue of Knowledge // Vantress Visions - 33.06%
-Charming Prince - 32.79%
-Lae'zel's Acrobatics - 32.79%
-Bloom Tender - 31.34%
-Delighted Halfling - 30.70%
-Aether Channeler - 30.52%
-Assassin's Trophy - 30.25%
-Loran of the Third Path - 27.34%
-Agent of Treachery - 27.25%
-Noble Hierarch - 26.79%
-Restoration Angel - 26.25%
-Mana Drain - 25.89%
-Guardian Project - 23.61%
-Ertai Resurrected - 23.16%
-**Aura Shards - 22.34%
-Another Round - 20.71%
-Dour Port-Mage - 20.71%
-Massacre Wurm - 18.26%
-Clifftop Lookout - 17.89%
-Witch Enchanter // Witch-Blessed Meadow - 15.89%
-Cloudblazer - 13.99%
-Sheoldred // The True Scriptures - 13.44%
-Siege Rhino - 12.62%
+Three Visits - 38.59%
+Brago, King Eternal - 38.14%
+Emiel the Blessed - 37.86%
+Felidar Guardian - 36.59%
+Yorion, Sky Nomad - 35.68%
+Aminatou, the Fateshifter - 34.03%
+Deadeye Navigator - 33.85%
+Ravenous Chupacabra - 33.49%
+Mulldrifter - 33.30%
+Bloom Tender - 32.03%
+Charming Prince - 31.93%
+Lae'zel's Acrobatics - 31.66%
+Delighted Halfling - 31.48%
+Assassin's Trophy - 31.20%
+Virtue of Knowledge // Vantress Visions - 30.29%
+Aether Channeler - 30.02%
+Noble Hierarch - 27.37%
+Loran of the Third Path - 26.92%
+Mana Drain - 26.64%
+Agent of Treachery - 26.46%
+Restoration Angel - 24.82%
+Guardian Project - 22.45%
+Ertai Resurrected - 22.17%
+**Aura Shards - 21.35%
+Dour Port-Mage - 20.99%
+Another Round - 19.53%
+Massacre Wurm - 18.07%
+Clifftop Lookout - 17.88%
+Witch Enchanter // Witch-Blessed Meadow - 16.06%
+Sheoldred // The True Scriptures - 13.50%
+Cloudblazer - 13.32%
+Siege Rhino - 12.68%
 Forbidden Orchard - Card not found
 Glasspool Mimic // Glasspool Shore - Card not found
 Preston, the Vanisher - Card not found
