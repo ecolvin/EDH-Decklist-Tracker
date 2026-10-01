@@ -5,30 +5,32 @@ Recommended Updates
 
 Recommended Cuts
 -------------------
-Surrak and Goreclaw - 38.72%
-Gwenna, Eyes of Gaea - 36.60%
-Railway Brawler - 34.89%
-Silverback Elder - 34.47%
-Hunter's Insight - 34.04%
-Elemental Bond - 33.62%
-Disciple of Freyalise // Garden of Freyalise - 30.21%
-Terastodon - 29.79%
-Elder Gargaroth - 29.36%
-Wild Growth - 29.36%
-Old-Growth Troll - 27.23%
-Nylea, Keen-Eyed - 26.81%
-Nessian Boar - 25.53%
-Bridgeworks Battle // Tanglespan Bridgeworks - 25.53%
-Hunted Troll - 22.98%
-Khalni Ambush // Khalni Territory - 22.55%
-Excalibur, Sword of Eden - 19.15%
-Lovestruck Beast // Heart's Desire - 15.74%
-Herd Heirloom - 15.29%
-Questing Beast - 14.47%
-**Worldly Tutor - 13.62%
-Bane of Progress - 13.19%
-Bala Ged Recovery // Bala Ged Sanctuary - 12.77%
-Turntimber Symbiosis // Turntimber, Serpentine Wood - 11.49%
-**Natural Order - 10.21%
-**Ancient Tomb - 5.11%
+Defiler of Vigor - 39.52%
+Elemental Bond - 37.50%
+Cactus Preserve - 37.10%
+Garruk, Primal Hunter - 35.48%
+Gwenna, Eyes of Gaea - 34.68%
+Silverback Elder - 33.47%
+Elder Gargaroth - 32.66%
+Railway Brawler - 32.26%
+Disciple of Freyalise // Garden of Freyalise - 31.85%
+Hunter's Insight - 31.45%
+Terastodon - 28.63%
+Wild Growth - 28.23%
+Bridgeworks Battle // Tanglespan Bridgeworks - 25.00%
+Old-Growth Troll - 23.39%
+Nylea, Keen-Eyed - 22.58%
+Nessian Boar - 22.18%
+Khalni Ambush // Khalni Territory - 21.77%
+Hunted Troll - 20.97%
+Excalibur, Sword of Eden - 17.34%
+Herd Heirloom - 17.13%
+Bala Ged Recovery // Bala Ged Sanctuary - 14.11%
+**Worldly Tutor - 12.90%
+Lovestruck Beast // Heart's Desire - 12.10%
+Turntimber Symbiosis // Turntimber, Serpentine Wood - 11.69%
+**Natural Order - 11.29%
+Questing Beast - Card not found
+Ancient Tomb - Card not found
+Bane of Progress - Card not found
 The Dominion Bracelet - Card not found

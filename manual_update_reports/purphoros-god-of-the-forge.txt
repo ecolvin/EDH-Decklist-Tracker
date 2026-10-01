@@ -1,32 +1,36 @@
 Recommended Updates
 -------------------
-Sol Ring - 90.25%
-Goblin Matron - 51.02%
+Sol Ring - 89.46%
+Goblin Matron - 50.74%
 
 
 Recommended Cuts
 -------------------
-Firecat Blitz - 39.23%
-Tilonalli's Summoner - 34.92%
-Neheb, the Eternal - 34.24%
+Mogg Infestation - 39.95%
+Chandra, Acolyte of Flame - 38.24%
+Emrakul's Hatcher - 37.75%
+Firecat Blitz - 37.25%
+Tilonalli's Summoner - 34.31%
 Faithless Looting - 33.33%
-Fire Diamond - 31.75%
-Spawn-Gang Commander - 30.16%
-Deflecting Swat - 29.48%
-Redcap Gutter-Dweller - 27.44%
-Searslicer Goblin - 27.07%
-Cursed Mirror - 24.94%
-Valakut Awakening // Valakut Stoneforge - 24.72%
-Goblin Rabblemaster - 24.72%
+Neheb, the Eternal - 32.84%
+Fire Diamond - 29.66%
+Deflecting Swat - 29.66%
+Spawn-Gang Commander - 28.92%
+Redcap Gutter-Dweller - 27.21%
+Searslicer Goblin - 27.01%
+Valakut Awakening // Valakut Stoneforge - 25.25%
+Cursed Mirror - 24.51%
 Hanweir Garrison - 24.26%
-Birgi, God of Storytelling // Harnfel, Horn of Bounty - 23.36%
-Fellwar Stone - 21.54%
-Spiked Corridor // Torture Pit - 14.59%
-Demand Answers - 14.51%
-Goblin Negotiation - 12.85%
-Shatterskull Smashing // Shatterskull, the Hammer Pass - 9.98%
-Sundering Eruption // Volcanic Fissure - 8.62%
-Everflowing Chalice - 6.12%
+Goblin Rabblemaster - 24.26%
+Birgi, God of Storytelling // Harnfel, Horn of Bounty - 22.30%
+Fellwar Stone - 20.34%
+Spawning Bed - 15.69%
+Spiked Corridor // Torture Pit - 15.44%
+Demand Answers - 14.95%
+Goblin Negotiation - 12.43%
+Shatterskull Smashing // Shatterskull, the Hammer Pass - 10.54%
+Sundering Eruption // Volcanic Fissure - 9.07%
+Everflowing Chalice - 5.64%
 Spikefield Hazard // Spikefield Cave - Card not found
 The Irencrag - Card not found
 Arch of Orazca - Card not found

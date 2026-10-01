@@ -1,44 +1,44 @@
 Recommended Updates
 -------------------
-Sol Ring - 60.94%
-Arcane Signet - 42.43%
+Sol Ring - 60.98%
+Arcane Signet - 42.50%
 
 
 Recommended Cuts
 -------------------
-Imprisoned in the Moon - 39.39%
-Counterspell - 38.37%
-Inquisitive Glimmer - 38.10%
-Dryad of the Ilysian Grove - 37.88%
-Archon of Sun's Grace - 37.72%
-Enchanted Evening - 35.59%
-Privileged Position - 35.09%
-Argothian Enchantress - 34.25%
-Grasp of Fate - 32.86%
-Kenrith's Transformation - 32.39%
-Path to Exile - 31.45%
-Starfield Mystic - 29.90%
-Mirari's Wake - 29.75%
-Entity Tracker - 29.17%
-Calix, Guided by Fate - 28.46%
-Amphibian Downpour - 26.97%
-Mirrormade - 26.30%
-Hallowed Haunting - 23.97%
-Song of the Dryads - 23.46%
-Karmic Justice - 23.14%
-Noble Hierarch - 22.79%
-Mystic Remora - 22.07%
-Birds of Paradise - 21.05%
-Replenish - 20.64%
-Greater Auramancy - 20.20%
-Supreme Verdict - 19.10%
-Starfield of Nyx - 16.73%
-Sylvan Library - 16.52%
-Calix, Destiny's Hand - 16.19%
-Eaten by Piranhas - 14.53%
-Austere Command - 10.92%
-Mana Drain - 10.70%
-Bala Ged Recovery // Bala Ged Sanctuary - 6.66%
+Imprisoned in the Moon - 39.42%
+Inquisitive Glimmer - 38.61%
+Counterspell - 38.33%
+Dryad of the Ilysian Grove - 37.67%
+Archon of Sun's Grace - 37.59%
+Enchanted Evening - 35.51%
+Privileged Position - 35.10%
+Argothian Enchantress - 34.43%
+Grasp of Fate - 33.04%
+Kenrith's Transformation - 32.20%
+Path to Exile - 31.26%
+Starfield Mystic - 29.98%
+Mirari's Wake - 29.66%
+Entity Tracker - 29.25%
+Calix, Guided by Fate - 28.15%
+Amphibian Downpour - 26.84%
+Mirrormade - 26.18%
+Hallowed Haunting - 23.94%
+Song of the Dryads - 23.37%
+Noble Hierarch - 22.96%
+Karmic Justice - 22.82%
+Mystic Remora - 22.16%
+Birds of Paradise - 20.91%
+Replenish - 20.65%
+Greater Auramancy - 20.21%
+Supreme Verdict - 19.05%
+Starfield of Nyx - 16.69%
+Sylvan Library - 16.36%
+Calix, Destiny's Hand - 15.93%
+Eaten by Piranhas - 14.39%
+Austere Command - 10.73%
+Mana Drain - 10.54%
+Bala Ged Recovery // Bala Ged Sanctuary - 6.68%
 Mystic Gate - Card not found
 Wooded Bastion - Card not found
 Sea Gate Restoration // Sea Gate, Reborn - Card not found

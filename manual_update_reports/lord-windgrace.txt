@@ -1,45 +1,47 @@
 Recommended Updates
 -------------------
-**Crop Rotation - 74.69%
-Sol Ring - 73.81%
-Cultivate - 48.88%
-Icetill Explorer - 46.63%
-Golgari Rot Farm - 46.53%
-Zuran Orb - 46.36%
-Strip Mine - 46.09%
-Gruul Turf - 44.72%
-Retreat to Hagra - 42.04%
-Cinder Glade - 41.44%
+Sol Ring - 73.30%
+**Crop Rotation - 73.24%
+Cultivate - 48.40%
+Zuran Orb - 47.38%
+Icetill Explorer - 47.20%
+Golgari Rot Farm - 46.78%
+Strip Mine - 45.57%
+Gruul Turf - 45.27%
+Retreat to Hagra - 43.28%
+Cinder Glade - 41.83%
 
 
 Recommended Cuts
 -------------------
-Realms Uncharted - 39.97%
-Three Visits - 39.15%
-Tireless Tracker - 38.00%
-Wrenn and Six - 36.85%
-Toxic Deluge - 35.87%
-**Glacial Chasm - 35.54%
-World Shaper - 35.48%
-Windgrace's Judgment - 31.06%
-Sylvan Safekeeper - 29.47%
-Squandered Resources - 29.20%
-Worldsoul's Rage - 29.14%
-Lumra, Bellow of the Woods - 28.27%
-Burgeoning - 27.72%
-Putrefy - 26.41%
-Courser of Kruphix - 24.88%
-Orcish Lumberjack - 24.71%
-Wayward Swordtooth - 22.80%
-Sylvan Library - 22.69%
-Walk-In Closet // Forgotten Cellar - 22.37%
-Nissa, Resurgent Animist - 20.94%
-Entish Restoration - 20.28%
-Loot, Exuberant Explorer - 19.41%
-Bala Ged Recovery // Bala Ged Sanctuary - 14.93%
-Deflecting Swat - 14.76%
-Deadly Rollick - 11.70%
-Fell the Profane // Fell Mire - 6.72%
+Constant Mists - 39.54%
+Mina and Denn, Wildborn - 39.36%
+Realms Uncharted - 38.88%
+Three Visits - 37.85%
+Tireless Tracker - 37.31%
+Wrenn and Six - 35.56%
+Toxic Deluge - 34.78%
+World Shaper - 34.72%
+**Glacial Chasm - 34.42%
+Windgrace's Judgment - 31.22%
+Sylvan Safekeeper - 30.32%
+Squandered Resources - 28.99%
+Worldsoul's Rage - 28.69%
+Lumra, Bellow of the Woods - 28.69%
+Burgeoning - 27.91%
+Putrefy - 26.64%
+Orcish Lumberjack - 25.38%
+Courser of Kruphix - 24.47%
+Walk-In Closet // Forgotten Cellar - 22.91%
+Sylvan Library - 22.48%
+Wayward Swordtooth - 22.12%
+Nissa, Resurgent Animist - 21.28%
+Entish Restoration - 20.19%
+Loot, Exuberant Explorer - 19.24%
+Bala Ged Recovery // Bala Ged Sanctuary - 14.53%
+Deflecting Swat - 14.17%
+Deadly Rollick - 11.75%
+Fell the Profane // Fell Mire - 6.81%
 Nurturing Peatland - Card not found
 Shatterskull Smashing // Shatterskull, the Hammer Pass - Card not found
 Kazandu Mammoth // Kazandu Valley - Card not found
